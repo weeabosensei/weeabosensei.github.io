@@ -1,6 +1,6 @@
 # x-exports
 18+
 
-[test xml a](/tushy.xml)
+[test xml 1](/tushy.xml)
 
-[test xml b](/tushy.xml)
+[test xml 2](/tushy.xml)
