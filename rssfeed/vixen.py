@@ -8,9 +8,9 @@ from datetime import datetime
 
 # https://github.com/svpino/rfeed
 
-SITE = "Tushy"
-FILENAME = "tushy.xml"
-DOMAIN = "https://tushy.com"
+SITE = "Vixen"
+FILENAME = "vixen.xml"
+DOMAIN = "https://vixen.com"
 
 def getPageDetails(url):
     r = requests.get(url)
@@ -74,6 +74,3 @@ def genFeed():
 
     with open(FILENAME, 'w') as outfile:
         outfile.write(content)
-
-
-# getFeed()

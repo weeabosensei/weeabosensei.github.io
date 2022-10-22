@@ -8,9 +8,9 @@ from datetime import datetime
 
 # https://github.com/svpino/rfeed
 
-SITE = "Tushy"
-FILENAME = "tushy.xml"
-DOMAIN = "https://tushy.com"
+SITE = "Slayed"
+FILENAME = "slayed.xml"
+DOMAIN = "https://slayed.com"
 
 def getPageDetails(url):
     r = requests.get(url)
