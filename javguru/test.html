@@ -1,0 +1,42 @@
+
+<head>
+<link rel="stylesheet" href="mystyle.css">
+<script>
+    var val = 0;
+
+    document.addEventListener('keydown', function (event) {
+    if (event.keyCode === 37 || event.keyCode === 39) {
+        if (event.keyCode === 37) val--;
+        if (event.keyCode === 39) val++;
+        console.log(val);
+        var divsToHide = document.getElementsByClassName("movie"); //divsToHide is an array
+            for(var i = 0; i < divsToHide.length; i++){
+                // divsToHide[i].style.visibility = "hidden"; // or
+                divsToHide[i].style.display = "none"; // depending on what you're doing
+            }    
+        
+            var x = document.getElementById(""+val);
+            console.log(x);
+            x.style.display = "block";
+
+    }
+});
+       
+</script>
+</head>
+<html>
+    <div style='margin:0 auto;max-width:800px'>
+    <nav class="pagination" role="navigation" aria-label="Pagination">
+        <ul>
+            <li class="pagination-prev"><a href="?type=prevnext&page=2" rel="prev" title="Previous page" aria-label="Previous page">Prev</a></li>
+            <li class="pagination-next"><a href="?type=prevnext&page=4" rel="next" title="Next page" aria-label="Next page">Next</a></li>
+        </ul>
+    </nav>
+    
+<div id="1" class="movie">1</div>
+<div id="2" class="movie">2</div>
+<div id="3" class="movie">3</div>
+<div id="4" class="movie">4</div>
+<div id="5" class="movie">5</div>
+
+</div></html>
