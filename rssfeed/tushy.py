@@ -71,7 +71,7 @@ def getFeed():
     content = feed.rss()
 
     with open('tushy.xml', 'w') as outfile:
-        json.dump(content, outfile)
+        outfile.write(content)
 
 
 getFeed()
