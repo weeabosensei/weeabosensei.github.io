@@ -58,14 +58,15 @@ def get_movies_from_page(links, loaded_movies):
             page_tags = movie_info_left[3].find_all('a')
             movie['tags'] = sorted([a.text for a in page_tags], key=lambda v: v.upper()) if len(page_tags) > 0 else ['no tags']
 
+            page_series = movie_info_left[4].find_all('a')
+            movie['series'] = [a.text for a in page_series][0] if len(page_series) > 0 else 'No Series'
+
             page_actress = movie_info_left[5].find_all('a')
             movie['actress'] = sorted([a.text for a in page_actress], key=lambda v: v.upper()) if len(page_actress) > 0 else ['no actress']
 
             page_studio = movie_info_left[6].find_all('a')
-            movie['studio'] = [a.text for a in page_studio][0] if len(page_tags) > 0 else 'No Studio'
+            movie['studio'] = [a.text for a in page_studio][0] if len(page_studio) > 0 else 'No Studio'
                       
-            
-
             cover = story_soup.select('div.large-screenimg > img')
             movie['cover'] = cover[0]['src']
 
