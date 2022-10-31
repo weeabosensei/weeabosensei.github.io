@@ -45,7 +45,7 @@ def getPageDetails(url):
 
 def genFeed():
     fg = FeedGenerator() 
-    fg.id('http://lernfunk.de/media/654321')
+    fg.id('http://https://weeabosensei.github.io/rssfeed/'+FILENAME)
     fg.title(SITE)
     fg.author( {'name':'John Doe','email':'john@example.de'} )
     fg.link( href='http://example.com', rel='alternate' )
@@ -106,4 +106,4 @@ def genFeed():
     fg.rss_file(FILENAME)
 
 
-genFeed()
+# genFeed()
