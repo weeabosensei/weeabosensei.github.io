@@ -2,9 +2,9 @@ import requests
 from bs4 import BeautifulSoup as bs
 from pprint import pprint 
 import datetime 
-from rfeed import *
+from feedgen.feed import FeedGenerator
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 
 # https://github.com/svpino/rfeed
 
@@ -44,6 +44,24 @@ def getPageDetails(url):
     return data
 
 def genFeed():
+    fg = FeedGenerator() 
+    fg.id('http://lernfunk.de/media/654321')
+    fg.title(SITE)
+    fg.author( {'name':'John Doe','email':'john@example.de'} )
+    fg.link( href='http://example.com', rel='alternate' )
+    fg.description(SITE)
+    # fg.logo('http://ex.com/logo.jpg')
+    # fg.subtitle('This is a cool feed!')
+    # fg.link( href='http://larskiesow.de/test.atom', rel='self' )
+    fg.language('en')
+    # feed = Feed(
+    #     title = SITE,
+    #     link = "http://www.example.com/rss",
+    #     description = SITE,
+    #     language = "en-US",
+    #     lastBuildDate = datetime.now(),
+    #     items = feedItems)
+
     feedItems = []
 
     r = requests.get(DOMAIN + "/en/scenes")
@@ -74,33 +92,17 @@ def genFeed():
         
         thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
 
-        description = """<![CDATA[
-{} 
-{}]>""".format(thumbnail, data['description'])
+        description = "{} {}".format(thumbnail, data['description'])
 
-        feedItem = Item(
-            title = data['title'],
-            link = link, 
-            description = description,
-        # author = "Santiago L. Valdarrama",
-            guid = Guid(link),
-            enclosure=Enclosure(url=data['thumbnail'], length=1, type='image'),
-            pubDate = datetime.strptime(dateReleased, "%Y-%m-%d"))
+        fe = fg.add_entry()
+        fe.id(link)
+        fe.title('The First Episode')
+        fe.link(href=link)
+        fe.content(description, type='CDATA')
+        fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
+        fe.enclosure(data['thumbnail'], 0, 'image')
 
-        feedItems.append(feedItem)
-
-    feed = Feed(
-        title = SITE,
-        link = "http://www.example.com/rss",
-        description = SITE,
-        language = "en-US",
-        lastBuildDate = datetime.now(),
-        items = feedItems)
-
-    content = feed.rss()
-
-    with open(FILENAME, 'w') as outfile:
-        outfile.write(content)
+    fg.rss_file(FILENAME)
 
 
-# genFeed()
+genFeed()
