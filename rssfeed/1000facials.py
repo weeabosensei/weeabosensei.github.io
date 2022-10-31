@@ -76,7 +76,8 @@ def genFeed():
     for item in items:
         # pprint(item)
         linkBS = item.find('a')
-        # print(linkBS)
+        # pprint(linkBS)
+        # break
         link =  DOMAIN + linkBS["href"]
         # print(link)
 
@@ -88,15 +89,15 @@ def genFeed():
         dateReleased = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
 
         thumbBS = linkBS.find('img')
-        data['thumbnail'] = thumbBS['src'] if thumbBS else None
+        data['thumbnail'] = thumbBS['data-original'] if thumbBS else None
         
         thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
 
         description = "{} {}".format(thumbnail, data['description'])
 
-        fe = fg.add_entry()
+        fe = fg.add_entry(order='append')
         fe.id(link)
-        fe.title('The First Episode')
+        fe.title(data['title'])
         fe.link(href=link)
         fe.content(description, type='CDATA')
         fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
