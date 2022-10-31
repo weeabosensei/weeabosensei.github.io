@@ -99,6 +99,7 @@ def genFeed():
         fe.id(link)
         fe.title(data['title'])
         fe.link(href=link)
+        fe.description(data['description'])
         fe.content(description, type='CDATA')
         fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
         fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
