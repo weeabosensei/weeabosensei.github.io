@@ -29,7 +29,7 @@ def getPageDetails(url):
 
     data = {}
     
-    data['title'] = page.select_one('h1.title').text
+    data['title'] = page.select_one('title').text #page.select_one('h1.title').text
 
     # meta = 
     data['description'] = page.find("meta", attrs={'name': 'description'})['content']
@@ -89,7 +89,7 @@ def genFeed():
         dateReleased = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
 
         thumbBS = linkBS.find('img')
-        data['thumbnail'] = thumbBS['data-original'] if thumbBS else None
+        data['thumbnail'] = thumbBS['data-original'].split('?')[0] if thumbBS else None
         
         thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
 
@@ -101,7 +101,7 @@ def genFeed():
         fe.link(href=link)
         fe.content(description, type='CDATA')
         fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
-        fe.enclosure(data['thumbnail'], 0, 'image')
+        fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
 
     fg.rss_file(FILENAME)
 
