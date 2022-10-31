@@ -29,10 +29,10 @@ def getPageDetails(url):
 
     data = {}
     
-    data['title'] = page.select_one('title').text #page.select_one('h1.title').text
+    data['title'] = page.select_one('h1.title').text
 
     # meta = 
-    data['description'] = page.find("meta", attrs={'name': 'description'})['content']
+    data['description'] = page.select_one('h1.title').text #page.find("meta", attrs={'name': 'description'})['content']
     data['thumbnail'] = None #page.find("meta", property="og:image")['content']
     # data['releaseDate'] = page.find("meta", property="og:image")
 #     models = ', '.join([x['name'] for x in jsondata['video']['modelsSlugged']])
