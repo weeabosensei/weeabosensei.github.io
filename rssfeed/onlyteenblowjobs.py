@@ -66,10 +66,16 @@ def genFeed():
 
         dateReleased = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
         
+        thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
+
+        description = """<![CDATA[
+{} 
+{}]>""".format(thumbnail, data['description'])
+
         feedItem = Item(
             title = data['title'],
             link = link, 
-            description = data['description'],
+            description = description,
         # author = "Santiago L. Valdarrama",
             guid = Guid(link),
             enclosure=Enclosure(url=data['thumbnail'], length=1, type='image'),

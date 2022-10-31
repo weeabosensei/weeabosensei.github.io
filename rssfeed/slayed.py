@@ -51,14 +51,22 @@ def genFeed():
         data = getPageDetails(link)
         # pprint(data)cd 
 
+        thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
+
+        description = """<![CDATA[
+{} 
+{}]>""".format(thumbnail, data['description'])
+
         feedItem = Item(
             title = data['title'],
             link = link, 
-            description = data['description'],
+            description = description,
         # author = "Santiago L. Valdarrama",
             guid = Guid(link),
             enclosure=Enclosure(url=data['thumbnail'], length=1, type='image'),
             pubDate = datetime.strptime(data['releaseDate'][:10], "%Y-%m-%d")) #datetime.datetime(2014, 12, 29, 10, 00))
+
+        feedItems.append(feedItem)
 
         feedItems.append(feedItem)
 
