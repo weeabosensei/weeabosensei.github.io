@@ -6,8 +6,6 @@ from feedgen.feed import FeedGenerator
 import json
 from datetime import datetime, timezone
 
-# https://github.com/svpino/rfeed
-
 SITE = "1000 Facials"
 FILENAME = "1000facials.xml"
 DOMAIN = "https://1000facials.com"
@@ -18,28 +16,12 @@ def getPageDetails(url):
     html = r.text
     page = bs(html,"html.parser")
 
-    
-
-    # item=page.select_one('script[id="__NEXT_DATA__"]').text
-
-#     item=page.select_one('script[id="__NEXT_DATA__"]').text
-#     # pprint(item)
-#     jsondata=json.loads(item)['props']['pageProps']
-#     # pprint(jsondata['props']['pageProps'])
-
     data = {}
     
     data['title'] = page.select_one('h1.title').text
 
-    # meta = 
     data['description'] = page.select_one('h1.title').text #page.find("meta", attrs={'name': 'description'})['content']
     data['thumbnail'] = None #page.find("meta", property="og:image")['content']
-    # data['releaseDate'] = page.find("meta", property="og:image")
-#     models = ', '.join([x['name'] for x in jsondata['video']['modelsSlugged']])
-#     data["releaseDate"] = jsondata['releaseDate']
-#     data["title"] = jsondata['title'] + ' - ' + models
-#     data["description"] = jsondata['description']
-#     data["thumbnail"] = jsondata['structuredData']['thumbnailUrl']
 
     return data
 
@@ -54,15 +36,6 @@ def genFeed():
     # fg.subtitle('This is a cool feed!')
     # fg.link( href='http://larskiesow.de/test.atom', rel='self' )
     fg.language('en')
-    # feed = Feed(
-    #     title = SITE,
-    #     link = "http://www.example.com/rss",
-    #     description = SITE,
-    #     language = "en-US",
-    #     lastBuildDate = datetime.now(),
-    #     items = feedItems)
-
-    feedItems = []
 
     r = requests.get(DOMAIN + "/en/scenes")
 
@@ -71,7 +44,7 @@ def genFeed():
 
     items = page.select("div.tlcItem")
 
-    print(len(items))
+    print(SITE, len(items))
 
     for item in items:
         # pprint(item)
