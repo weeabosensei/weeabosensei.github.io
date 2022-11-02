@@ -70,7 +70,7 @@ def genFeed():
         fe.link(href=link)
         fe.description(data['description'])
         fe.content(description, type='CDATA')
-        fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
+        fe.pubDate(datetime.strptime(dateReleased, "%m-%d-%Y").replace(tzinfo=timezone.utc))
         fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
 
     fg.rss_file(FILENAME)
