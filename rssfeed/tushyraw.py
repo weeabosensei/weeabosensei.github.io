@@ -1,34 +1,12 @@
 import requests 
 from bs4 import BeautifulSoup as bs
 from pprint import pprint 
-import datetime 
 from feedgen.feed import FeedGenerator
-import json
-from datetime import datetime, timezone
+import feedutils
 
 SITE = "Tushy Raw"
 FILENAME = "tushyraw.xml"
 DOMAIN = "https://tushyraw.com"
-
-def getPageDetails(url):
-    r = requests.get(url)
-
-    html = r.text
-    page = bs(html,"html.parser")
-
-    item=page.select_one('script[id="__NEXT_DATA__"]').text
-
-    jsondata=json.loads(item)['props']['pageProps']
-
-
-    data = {}
-    models = ', '.join([x['name'] for x in jsondata['video']['modelsSlugged']])
-    data["releaseDate"] = jsondata['releaseDate']
-    data["title"] = jsondata['title'] + ' - ' + models
-    data["description"] = jsondata['description']
-    data["thumbnail"] = jsondata['structuredData']['thumbnailUrl']
-
-    return data
 
 def genFeed():
     fg = FeedGenerator() 
@@ -54,21 +32,10 @@ def genFeed():
         linkBS = item.find('a')
         link =  DOMAIN + linkBS["href"]
         print(link)
-        data = getPageDetails(link)
+        data = feedutils.getPageDetailsTushy(link)
         # pprint(data)cd 
 
-        thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
-
-        description = "{} {}".format(thumbnail, data['description'])
-
-        fe = fg.add_entry(order='append')
-        fe.id(link)
-        fe.title(data['title'])
-        fe.link(href=link)
-        fe.description(data['description'])
-        fe.content(description, type='CDATA')
-        fe.pubDate(datetime.strptime(data['releaseDate'][:10], "%Y-%m-%d").replace(tzinfo=timezone.utc))
-        fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
+        feedutils.addEntry(fg, data)
 
     fg.rss_file(FILENAME)
 

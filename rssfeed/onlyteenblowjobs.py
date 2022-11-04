@@ -1,10 +1,8 @@
 import requests 
 from bs4 import BeautifulSoup as bs
 from pprint import pprint 
-import datetime 
 from feedgen.feed import FeedGenerator
-import json
-from datetime import datetime, timezone
+import feedutils
 
 SITE = "Only Teen Blowjobs"
 FILENAME = "onlyteenblowjobs.xml"
@@ -20,7 +18,7 @@ def getPageDetails(url):
     data['title'] = page.find("meta", property="og:title")['content']
     data['description'] = page.find("meta", property="og:description")['content']
     data['thumbnail'] = page.find("meta", property="og:image")['content']
-
+    data['link'] = url
 
     return data
 
@@ -58,20 +56,9 @@ def genFeed():
 
         # pprint(data)
 
-        dateReleased = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
+        data['dateReleased'] = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
         
-        thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
-
-        description = "{} {}".format(thumbnail, data['description'])
-
-        fe = fg.add_entry(order='append')
-        fe.id(link)
-        fe.title(data['title'])
-        fe.link(href=link)
-        fe.description(data['description'])
-        fe.content(description, type='CDATA')
-        fe.pubDate(datetime.strptime(dateReleased, "%m-%d-%Y").replace(tzinfo=timezone.utc))
-        fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
+        feedutils.addEntry(fg, data, "%m-%d-%Y")
 
     fg.rss_file(FILENAME)
 

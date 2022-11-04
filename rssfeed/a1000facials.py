@@ -1,10 +1,9 @@
 import requests 
 from bs4 import BeautifulSoup as bs
 from pprint import pprint 
-import datetime 
 from feedgen.feed import FeedGenerator
-import json
-from datetime import datetime, timezone
+
+import feedutils
 
 SITE = "1000 Facials"
 FILENAME = "1000facials.xml"
@@ -22,6 +21,7 @@ def getPageDetails(url):
 
     data['description'] = page.select_one('h1.title').text #page.find("meta", attrs={'name': 'description'})['content']
     data['thumbnail'] = None #page.find("meta", property="og:image")['content']
+    data['link'] = url
 
     return data
 
@@ -59,23 +59,12 @@ def genFeed():
 
         # pprint(data)
 
-        dateReleased = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
+        data['dateReleased'] = item.select_one('span.tlcSpecsDate').select_one('span.tlcDetailsValue').text
 
         thumbBS = linkBS.find('img')
-        data['thumbnail'] = thumbBS['data-original'].split('?')[0] if thumbBS else None
-        
-        thumbnail = '<img src="{}" alt="" />'.format(data['thumbnail']) if data['thumbnail'] else ""
+        data['thumbnail'] = thumbBS['data-original'] if thumbBS else None
 
-        description = "{} {}".format(thumbnail, data['description'])
-
-        fe = fg.add_entry(order='append')
-        fe.id(link)
-        fe.title(data['title'])
-        fe.link(href=link)
-        fe.description(data['description'])
-        fe.content(description, type='CDATA')
-        fe.pubDate(datetime.strptime(dateReleased, "%Y-%m-%d").replace(tzinfo=timezone.utc))
-        fe.enclosure(data['thumbnail'], 0, 'image/jpeg')
+        feedutils.addEntry(fg, data)
 
     fg.rss_file(FILENAME)
 
