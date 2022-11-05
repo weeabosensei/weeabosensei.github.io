@@ -2,7 +2,7 @@
 import requests 
 from bs4 import BeautifulSoup as bs
 import json
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 def addEntry(fg, data, dateFormat="%Y-%m-%d"):
     imageUrl = data['thumbnail'].split('?')[0] if data['thumbnail'] else None
@@ -22,6 +22,19 @@ def addEntry(fg, data, dateFormat="%Y-%m-%d"):
         fe.enclosure(imageUrl, 0, 'image/jpeg')
 
 
+## helpers
+def fromDateWords(dateString):
+    newDate = None
+
+    if dateString.lower() == 'today':
+        newDate = datetime.today()
+    if dateString.lower() == 'yesterday':
+        newDate = datetime.today() - timedelta(days=1)
+    else:
+        newDateString = dateString.replace('st,', '').replace('nd,','').replace('rd,','').replace('th,', '')
+        newDate = datetime.strptime(newDateString, "%B %d %Y")
+
+    return newDate.strftime("%Y-%m-%d")
 
 # per site 
 # tushy
