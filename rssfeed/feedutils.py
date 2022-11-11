@@ -30,8 +30,9 @@ def fromDateWords(dateString):
         newDate = datetime.today()
     if dateString.lower() == 'yesterday':
         newDate = datetime.today() - timedelta(days=1)
-    if dateString.lower() == '2 days ago':
-        newDate = datetime.today() - timedelta(days=2)
+    if dateString.lower().endswith('days ago'):
+        days = dateString.split(' ')[0]
+        newDate = datetime.today() - timedelta(days=int(days))
     else:
         newDateString = dateString.replace('st,', '').replace('nd,','').replace('rd,','').replace('th,', '')
         newDate = datetime.strptime(newDateString, "%B %d %Y")
