@@ -28,9 +28,9 @@ def fromDateWords(dateString):
 
     if dateString.lower() == 'today':
         newDate = datetime.today()
-    if dateString.lower() == 'yesterday':
+    elif dateString.lower() == 'yesterday':
         newDate = datetime.today() - timedelta(days=1)
-    if dateString.lower().endswith('days ago'):
+    elif dateString.lower().endswith('days ago'):
         days = dateString.split(' ')[0]
         newDate = datetime.today() - timedelta(days=int(days))
     else:
