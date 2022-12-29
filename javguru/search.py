@@ -40,13 +40,12 @@ story_print_format = """
 <b>tags:</b> {tag_list} <br>
 <b>actress:</b> {actress_list} <br>
 <b>studio:</b> {studio} <br>
-<b>release date:</b> {release_date} <br>
 </div>
 <img src="{cover}"/>
 </div>
 
 """
-
+# <b>release date:</b> {release_date} <br>
 
 def load_taxo():
     with open('taxo.json',) as f:
@@ -97,8 +96,8 @@ def get_stories(tags, actress, studio, other):
             story_taxo in s['studio'] for story_taxo in studio)]
 
     if len(other) > 0:
-        stories = [s for s in stories if (
-            s['title']).find(other) > -1]
+        stories = [s for s in stories if 
+            s['title'].lower().find(other) > -1]
 
     return stories
 
