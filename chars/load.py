@@ -131,11 +131,11 @@ for link in links:
     chars.append(char)
         
     
-csv_columns = ['Name','Series','Age','Gender','Hair','Eyes','Seiyu','Fandom','Cover','Gallery', 'Birthday', 'Height', 'Alias']
-time_stamp =  datetime.now().strftime("%b-%d-%y-%H:%M:%S")
+# csv_columns = ['Name','Series','Age','Gender','Hair','Eyes','Seiyu','Fandom','Cover','Gallery', 'Birthday', 'Height', 'Alias']
+# time_stamp =  datetime.now().strftime("%b-%d-%y-%H:%M:%S")
 
-with open('exported_{}_{}.csv'.format(FN, time_stamp), mode='w') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-    writer.writeheader()
-    for data in chars:
-        writer.writerow(data)
+# with open('exported_{}_{}.csv'.format(FN, time_stamp), mode='w') as csvfile:
+#     writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+#     writer.writeheader()
+#     for data in chars:
+#         writer.writerow(data)
