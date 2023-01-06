@@ -30,6 +30,17 @@ def toInt(number):
 
     return None
 
+def getExtra(star):
+    text = """country: [[{country}]]
+![photo]({cover})
+***
+
+"""
+
+
+    return text.format(star)
+
+
 with open("stars.html") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
     # print(soup)
@@ -44,9 +55,6 @@ stars = []
 for bio in tqdm(bios):
     url = bio['href']
 
-    # print(url)
-    # break
-# with open("emilywillis.html") as fp:
     page_data = requests.get(url)
     page = BeautifulSoup(page_data.content, 'html.parser')
 
@@ -59,7 +67,7 @@ for bio in tqdm(bios):
     # pprint(pi)
 
     dob = pi.select_one('span[data-test="link_span_dateOfBirth"]')
-    birthday = dob.text if dob else None
+    birthday = dob.text.strip() if dob else None
     # star["birthday"] = datetime.strpt(birthday, "%B %d, %Y") if birthday else None
     star["birthday"] = datetime.strptime(birthday, "%B %d, %Y").strftime("%Y-%m-%d") if birthday else None #.strftime("%Y-%m-%d") if birthday else None
     # print(bday)
@@ -79,10 +87,10 @@ for bio in tqdm(bios):
     # appearance = page.select_one('ul.profile-meta-list')
 
     height = pi.select_one('span[data-test="link_span_height"]')
-    star["height"] = toInt(height.text.split(' - ')[0].split(' ')[0]) if (height and height.text != 'Unknown') else None
+    star["height"] = toInt(height.text.strip().split(' - ')[0].split(' ')[0]) if (height and height.text != 'Unknown') else None
 
     weight = pi.select_one('span[data-test="link_span_weight"]')
-    star["weight"] = toInt(weight.text.split(' - ')[0].split(' ')[0]) if (weight and weight.text != 'Unknown') else None
+    star["weight"] = toInt(weight.text.strip().split(' - ')[0].split(' ')[0]) if (weight and weight.text != 'Unknown') else None
 
     star["boobs"] = getText(pi.select_one('span[data-test="link_span_boobs"]'))
     star["bust"] = toInt(getText(pi.select_one('span[data-test="link_span_bust"]')))
@@ -159,6 +167,8 @@ for star in stars:
         fh.write('---\n')
         yaml.dump(star, fh)
         fh.write('---\n')
+        extra_data = getExtra(star)
+        fh.write(extra_data)
         # fh.write(text_format.format(yaml.dump(star, sys.stdout)))
 
     # TODO: update or create
