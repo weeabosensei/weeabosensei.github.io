@@ -11,10 +11,10 @@ weight: 41
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 22
 hip: 30
-butt:
+butt: Unknown
 eyes: Brown
 hair: Blonde
 piercings: No
@@ -26,3 +26,7 @@ started: 2017
 until:
 link: https://www.freeones.ca/kenzie-reeves/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-a81/P7/J5/o8rfyCXvxiVaE6ijuX/kenzie-reeves-avatar-1_teaser.jpg)
+***
+

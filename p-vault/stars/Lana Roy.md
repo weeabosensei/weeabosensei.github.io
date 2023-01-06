@@ -10,11 +10,11 @@ height: 157
 weight:
 boobs: Fake
 bust: 34
-cup: Aa
-bra: 34aa
+cup: C
+bra: 34C
 waist: 25
 hip: 38
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Brown
 piercings: No
@@ -26,3 +26,7 @@ started: 2018
 until:
 link: https://www.freeones.ca/lana-roy/bio
 ---
+country: [[Russia]]
+![photo](https://cdn.freeones.com/photo-6c3/Yi/qZ/yqDzj4NC94m9GXebGM/lana-roy-avatar-1_teaser.jpg)
+***
+

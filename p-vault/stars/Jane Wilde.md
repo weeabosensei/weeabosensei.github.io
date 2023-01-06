@@ -12,10 +12,10 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 22
 hip: 34
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Brown
 piercings: Yes
@@ -27,3 +27,7 @@ started: 2017
 until:
 link: https://www.freeones.ca/jane-wilde/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-fb1/T4/9d/K8jaZeT7tvVPXFokgn/jane-wilde-avatar-1_teaser.png)
+***
+

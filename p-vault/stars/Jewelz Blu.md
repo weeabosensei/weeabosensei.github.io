@@ -10,10 +10,10 @@ weight: 50
 boobs: Fake
 bust: 32
 cup: C
-bra: 32c
+bra: 32C
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Blue
 hair: Brown
 piercings: No
@@ -25,3 +25,7 @@ started: 2019
 until:
 link: https://www.freeones.ca/jewelz-blu/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-bd5/Hg/B4/WGxrFt4d2ym2LgrRhb/Jewelz-Blu-avatar_teaser.jpg?c=1658413870)
+***
+

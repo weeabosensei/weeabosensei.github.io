@@ -19,8 +19,8 @@ height: 172
 weight: 58
 boobs: Fake
 bust: 38
-cup: Ddd
-bra: 38ddd
+cup: DDD
+bra: 38DDD
 waist: 26
 hip: 37
 butt: Fake
@@ -35,3 +35,7 @@ started: 2007
 until:
 link: https://www.freeones.ca/aletta-ocean/bio
 ---
+country: [[Hungary]]
+![photo](https://cdn.freeones.com/photo-cff/EU/A2/yv5zkfLKvgDGGtNtze/Aletta-Ocean-avatar-001_teaser.jpg?c=1638729266)
+***
+

@@ -11,10 +11,10 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 23
 hip: 32
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: Yes
@@ -26,3 +26,7 @@ started:
 until:
 link: https://www.freeones.ca/kristen-scott/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-cad/69/3Q/7SFj3smVmQJZDbxR7e/kristen-scott-avatar-1_teaser.jpg)
+***
+

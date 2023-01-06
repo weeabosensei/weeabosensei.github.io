@@ -10,11 +10,11 @@ height: 152
 weight: 43
 boobs: Natural
 bust: 32
-cup: Aa
-bra: 32aa
+cup: AA
+bra: 32AA
 waist: 22
 hip: 28
-butt:
+butt: Unknown
 eyes: Brown
 hair: Black
 piercings: No
@@ -26,3 +26,7 @@ started: 2018
 until:
 link: https://www.freeones.ca/vina-skyy/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-ec2/qY/xU/McnXYYXwYYX33BHG3k/vina-skyy-avatar-1_teaser.jpg)
+***
+

@@ -10,10 +10,10 @@ weight: 50
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Blue
 hair: Auburn
 piercings: No
@@ -25,3 +25,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/anya-olsen/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-483/F8/NY/zxvtfEGffv2DfBDNrE/anya-olsen-avatar-002_teaser.jpg?c=1639073411)
+***
+

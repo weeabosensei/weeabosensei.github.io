@@ -11,10 +11,10 @@ weight: 54
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 35
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Black
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2014
 until:
 link: https://www.freeones.ca/alexa-tomas/bio
 ---
+country: [[Spain]]
+![photo](https://cdn.freeones.com/photo-889/8K/AN/tMcx4Khi8ax2FTuSKS/Alexa-Tomas-gets-penetrated-on-the-Massage-Table_001_teaser.jpg)
+***
+

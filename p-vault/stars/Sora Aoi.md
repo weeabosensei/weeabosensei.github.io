@@ -12,11 +12,11 @@ height: 155
 weight:
 boobs: Natural
 bust: 34
-cup: Dd
-bra: 34dd
+cup: DD
+bra: 34DD
 waist: 23
 hip: 33
-butt:
+butt: Unknown
 eyes: Brown
 hair: Black
 piercings: No
@@ -28,3 +28,7 @@ started:
 until:
 link: https://www.freeones.ca/sora-aoi/bio
 ---
+country: [[Japan]]
+![photo](https://cdn.freeones.com/photo-89a/JG/fi/Yfb3zmCosJTdxMgMWS/sara-aoi-avatar-001_teaser.jpg?c=1622748506)
+***
+

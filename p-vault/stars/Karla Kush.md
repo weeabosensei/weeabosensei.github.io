@@ -10,10 +10,10 @@ weight: 51
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 25
 hip: 35
-butt:
+butt: Unknown
 eyes: Blue
 hair: Blonde
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2013
 until:
 link: https://www.freeones.ca/karla-kush/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-cfa/2J/9K/8VfNfPdMHZDKc3YGxe/Karla-Kush-takes-blue-Panties-off-to-fuck-a-Cock_001_teaser.jpg?c=1561126666)
+***
+

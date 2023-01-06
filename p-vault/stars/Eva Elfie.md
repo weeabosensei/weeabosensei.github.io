@@ -13,10 +13,10 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: C
-bra: 32c
+bra: 32C
 waist: 26
 hip: 30
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Blonde
 piercings: No
@@ -28,3 +28,7 @@ started: 2018
 until:
 link: https://www.freeones.ca/eva-elfie-2/bio
 ---
+country: [[Russia]]
+![photo](https://cdn.freeones.com/photo-213/ug/Gt/UzKZKcEQxYFht2Bcu7/Lady-Jay-avatar-001_teaser.jpg)
+***
+

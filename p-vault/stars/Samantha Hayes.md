@@ -10,10 +10,10 @@ weight: 52
 boobs: Natural
 bust: 32
 cup: C
-bra: 32c
+bra: 32C
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Blue
 hair: Brown
 piercings: Yes
@@ -25,3 +25,7 @@ started:
 until:
 link: https://www.freeones.ca/samantha-hayes/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-c94/jo/8P/jrYS3TnAwVgyUDB4pd/Samantha-Hayes-gets-drilled-by-massive-black-Rod_001_teaser.jpg?c=1585338823)
+***
+

@@ -10,10 +10,10 @@ weight: 49
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 24
 hip: 35
-butt:
+butt: Unknown
 eyes: Green
 hair: Red
 piercings: No
@@ -25,3 +25,7 @@ started: 2017
 until:
 link: https://www.freeones.ca/jia-lissa/bio
 ---
+country: [[Russia]]
+![photo](https://cdn.freeones.com/photo-887/DL/mE/iUn6B38vbcpd6WSFJS/Jia-Lissa-avatar-001_teaser.jpg?c=1579700150)
+***
+

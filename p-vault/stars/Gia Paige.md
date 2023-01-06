@@ -11,10 +11,10 @@ weight: 50
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Brown
 piercings: Yes
@@ -28,3 +28,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/gia-paige/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-a20/gU/hn/uZdDyvVw2N4xURR7qW/gia-paige-avatar-1_teaser.jpg)
+***
+

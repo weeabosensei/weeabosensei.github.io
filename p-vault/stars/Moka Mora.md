@@ -11,7 +11,7 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 28
 butt: Natural
@@ -26,3 +26,7 @@ started: 2016
 until:
 link: https://www.freeones.ca/moka-mora/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-dc3/83/P8/Eu566cEJeP4FNrM6Ch/Moka-Mora-avatar-001_teaser.jpg?c=1578671435)
+***
+

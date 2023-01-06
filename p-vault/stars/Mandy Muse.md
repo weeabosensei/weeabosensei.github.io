@@ -11,10 +11,10 @@ weight: 55
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 36
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: Yes
@@ -27,3 +27,7 @@ started:
 until:
 link: https://www.freeones.ca/mandy-muse/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-331/VV/Fi/2jSYh7gmnaXa3TiH7B/Mandy-Muse-takes-a-black-Wang-in-her-Butt-Hole_001_teaser.jpg?c=1623936613)
+***
+

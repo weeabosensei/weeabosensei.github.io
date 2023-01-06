@@ -11,10 +11,10 @@ weight: 50
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Blue
 hair: Brown
 piercings: Yes
@@ -27,3 +27,7 @@ started: 2013
 until:
 link: https://www.freeones.ca/misha-cross/bio
 ---
+country: [[Poland]]
+![photo](https://cdn.freeones.com/photo-9c9/Cd/Zk/4z2AMCXgQwQn4ZsorV/Misha-Cross-bounces-her-shaved-Pussy-on-the-Sybian_001_teaser.jpg?c=1569956847)
+***
+

@@ -16,10 +16,10 @@ weight: 48
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 25
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: Yes
@@ -31,3 +31,7 @@ started: 2009
 until:
 link: https://www.freeones.ca/little-caprice/bio
 ---
+country: [[Czech Republic]]
+![photo](https://cdn.freeones.com/photo-9f1/KP/kj/Sj69jsBVkbKou2bBKW/Little-Caprice-avatar-001_teaser.jpg?c=1566563693)
+***
+

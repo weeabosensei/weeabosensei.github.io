@@ -11,10 +11,10 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 22
 hip: 32
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Blonde
 piercings: Yes
@@ -29,3 +29,7 @@ started: 2017
 until: 2020
 link: https://www.freeones.ca/hannah-hays/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-07e/7K/d6/N8PCxVDzJ9fpspUUR3/Hannah-Hays-avatar-001_teaser.jpg?c=1575198822)
+***
+

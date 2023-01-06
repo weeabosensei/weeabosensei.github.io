@@ -32,13 +32,13 @@ def toInt(number):
 
 def getExtra(star):
     text = """country: [[{country}]]
-![photo]({cover})
+![photo]({photo})
 ***
 
 """
 
 
-    return text.format(star)
+    return text.format(**star)
 
 
 with open("stars.html") as fp:

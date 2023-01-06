@@ -12,10 +12,10 @@ weight: 45
 boobs: Natural
 bust: 34
 cup: C
-bra: 34c
+bra: 34C
 waist: 24
 hip: 31
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Auburn
 piercings: Yes
@@ -27,3 +27,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/anna-de-ville/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-277/th/hE/F7x3KeZYfMLD2JYG39/Screenshot-2021-12-04-10-19-59_teaser.png)
+***
+

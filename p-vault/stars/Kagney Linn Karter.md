@@ -1,6 +1,6 @@
 ---
 name: Kagney Linn Karter
-photo: https://cdn.freeones.com/photo-df5/Fk/oj/TKszoJaLwVeavcdtjh/kagney-linn-karter-avatar-11_teaser.jpg
+photo: https://cdn.freeones.com/photo-b4b/io/5q/B54sAmrEZgBksFKbAa/Blonde-Pornstar-Kagney-Linn-Karter-in-a-sexy-Dress_005_teaser.jpg
 birthday: '1987-03-28'
 country: United States
 ethnicity: Caucasian
@@ -14,10 +14,10 @@ weight: 54
 boobs: Fake
 bust: 34
 cup: D
-bra: 34d
+bra: 34D
 waist: 25
 hip: 36
-butt:
+butt: Unknown
 eyes: Blue
 hair: Blonde
 piercings: Yes
@@ -29,3 +29,7 @@ started: 2008
 until:
 link: https://www.freeones.ca/kagney-linn-karter/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-b4b/io/5q/B54sAmrEZgBksFKbAa/Blonde-Pornstar-Kagney-Linn-Karter-in-a-sexy-Dress_005_teaser.jpg)
+***
+

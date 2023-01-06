@@ -1,6 +1,6 @@
 ---
 name: Jennifer White
-photo: https://cdn.freeones.com/photo-5c4/rg/nQ/XTquRpTMrnD6EST7SJ/Jennifer-White-slips-off-her-sexy-Bra-and-Panties_001_teaser.jpg?c=1562225843
+photo: https://cdn.freeones.com/photo-ad4/A3/ru/4LPeyDYvZEmKeDT6qY/Jennifer-White-has-interracial-Sex-with-huge-Cock_001_teaser.jpg?c=1562225809
 birthday: '1988-02-07'
 country: United States
 ethnicity: Caucasian
@@ -11,10 +11,10 @@ weight: 52
 boobs: Fake
 bust: 34
 cup: C
-bra: 34c
+bra: 34C
 waist: 27
 hip: 36
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2009
 until:
 link: https://www.freeones.ca/jennifer-white/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-ad4/A3/ru/4LPeyDYvZEmKeDT6qY/Jennifer-White-has-interracial-Sex-with-huge-Cock_001_teaser.jpg?c=1562225809)
+***
+

@@ -10,10 +10,10 @@ weight: 41
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Black
 piercings: Yes
@@ -25,3 +25,7 @@ started: 2019
 until:
 link: https://www.freeones.ca/lulu-chu/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-28a/Qh/kf/yNZUGq7GXRFYJ4W4F9/lulu-chu-avatar-1_teaser.png)
+***
+

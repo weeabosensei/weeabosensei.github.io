@@ -12,10 +12,10 @@ weight: 49
 boobs: Fake
 bust: 34
 cup: D
-bra: 34d
+bra: 34D
 waist: 26
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Black
 piercings: No
@@ -27,3 +27,7 @@ started: 2005
 until: 2016
 link: https://www.freeones.ca/rebeca-linares/bio
 ---
+country: [[Spain]]
+![photo](https://cdn.freeones.com/photo-2bc/WC/zX/yKkgy9qQJPkXySfGo9/Rebeca-Linares-avatar-001_teaser.jpg?c=1563187913)
+***
+

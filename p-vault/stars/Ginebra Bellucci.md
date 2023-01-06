@@ -12,10 +12,10 @@ weight: 51
 boobs: Natural
 bust: 34
 cup: A
-bra: 34a
+bra: 34A
 waist: 23
 hip: 35
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: No
@@ -27,3 +27,7 @@ started: 2018
 until: 2021
 link: https://www.freeones.ca/ginebra-bellucci/bio
 ---
+country: [[Spain]]
+![photo](https://cdn.freeones.com/photo-da1/2y/M7/aM9uvp4LjYBR6x3tog/Ginebra-Bellucci-avatar-001_teaser.jpg?c=1580139349)
+***
+

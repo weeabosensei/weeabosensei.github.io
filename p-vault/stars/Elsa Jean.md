@@ -13,10 +13,10 @@ weight: 45
 boobs: Fake
 bust: 32
 cup: C
-bra: 32c
+bra: 32C
 waist: 24
 hip: 28
-butt:
+butt: Unknown
 eyes: Green
 hair: Blonde
 piercings: Yes
@@ -28,3 +28,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/elsa-jean/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-0f5/ss/kP/AR9gxu67YCMjZwchj4/Cute-Elsa-Jean-teasing-and-showing-pink-Pussy_001_teaser.jpg?c=1638734005)
+***
+

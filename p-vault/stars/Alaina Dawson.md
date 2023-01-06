@@ -1,6 +1,6 @@
 ---
 name: Alaina Dawson
-photo: https://cdn.freeones.com/photo-4b1/Er/S6/RxS3S5rbypoHMuycNF/Schoolgirl-Alaina-Dawson-fucked-in-ripped-Tights_001_teaser.jpg
+photo: https://cdn.freeones.com/photo-528/hH/zD/LSzgaEHLH48fTBtxgG/Alaina-Dawson-and-her-Girlfriend-try-a-Threesome_001_teaser.jpg
 birthday:
 country:
 ethnicity: Caucasian
@@ -13,10 +13,10 @@ weight: 48
 boobs: Natural
 bust: 34
 cup: A
-bra: 34a
+bra: 34A
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Auburn
 piercings: Yes
@@ -29,3 +29,7 @@ started:
 until:
 link: https://www.freeones.ca/alaina-dawson/bio
 ---
+country: [[None]]
+![photo](https://cdn.freeones.com/photo-528/hH/zD/LSzgaEHLH48fTBtxgG/Alaina-Dawson-and-her-Girlfriend-try-a-Threesome_001_teaser.jpg)
+***
+

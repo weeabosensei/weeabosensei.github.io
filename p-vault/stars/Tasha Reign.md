@@ -1,6 +1,6 @@
 ---
 name: Tasha Reign
-photo: https://cdn.freeones.com/photo-746/do/SD/sHcJWJnWsg7uxm6qiN/tasha-reign-avatar-1_teaser.jpg
+photo: https://cdn.freeones.com/photo-2ae/Mm/5a/3vYUnhG4HDycso7Ce9/tasha-reign-avatar-001_teaser.jpg?c=1562225545
 birthday:
 country: United States
 ethnicity: Caucasian
@@ -13,10 +13,10 @@ weight: 50
 boobs: Fake
 bust: 35
 cup: D
-bra: 35d
+bra: 35D
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Green
 hair: Blonde
 piercings: Yes
@@ -28,3 +28,7 @@ started: 2010
 until:
 link: https://www.freeones.ca/tasha-reign/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-2ae/Mm/5a/3vYUnhG4HDycso7Ce9/tasha-reign-avatar-001_teaser.jpg?c=1562225545)
+***
+

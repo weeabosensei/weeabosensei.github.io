@@ -11,7 +11,7 @@ weight: 50
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 22
 hip: 32
 butt: Natural
@@ -27,3 +27,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/arya-fae/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-1a0/Q3/gr/fi3CP9vZsW9CF4pzd6/Arya-Fae-avatar_teaser.jpg?c=1649256837)
+***
+

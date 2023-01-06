@@ -13,10 +13,10 @@ weight: 53
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 25
 hip: 36
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: Yes
@@ -28,3 +28,7 @@ started: 2010
 until:
 link: https://www.freeones.ca/jynx-maze/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-5a2/ne/V9/yNJPFPwdbvxgULLR4J/Jynx-Maze-avatar-001_teaser.jpg?c=1575198584)
+***
+

@@ -11,10 +11,10 @@ weight: 52
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 26
 hip: 35
-butt:
+butt: Unknown
 eyes: Blue
 hair: Blonde
 piercings: No
@@ -26,3 +26,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/lily-rader/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-ee1/Y4/Tj/4xk3fMrj3mFGS9kXNk/Lily-Rader-avatar-001_teaser.jpg?c=1564151065)
+***
+

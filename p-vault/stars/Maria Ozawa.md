@@ -10,11 +10,11 @@ height: 162
 weight: 48
 boobs: Natural
 bust: 35
-cup: Dd
-bra: 35dd
+cup: DD
+bra: 35DD
 waist: 23
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Black
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2005
 until: 2015
 link: https://www.freeones.ca/maria-ozawa/bio
 ---
+country: [[Japan]]
+![photo](https://cdn.freeones.com/photo-5db/2N/5w/i94sjgm7s2rUW4mhgJ/Playful-Chick-Maria-Ozawa-getting-naked-outdoors_005_teaser.jpg?c=1649686030)
+***
+

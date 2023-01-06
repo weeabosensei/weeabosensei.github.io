@@ -10,10 +10,10 @@ weight: 50
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 25
 hip: 34
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: No
@@ -25,3 +25,7 @@ started: 2011
 until:
 link: https://www.freeones.ca/casey-calvert/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-278/yA/sm/DLtEBas9wAUqZKJw39/casey-calvert-avatar-1_teaser.jpg)
+***
+

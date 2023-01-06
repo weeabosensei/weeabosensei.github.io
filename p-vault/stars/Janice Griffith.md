@@ -1,6 +1,6 @@
 ---
 name: Janice Griffith
-photo: https://cdn.freeones.com/photo-4d3/Yj/iJ/z6cGpFTfW3WDoeJ7kF/Bikini-Babe-Janice-Griffith-masturbates-by-a-Pool_001_teaser.jpg?c=1635501806
+photo: https://cdn.freeones.com/photo-3f7/bT/DY/5UMnpfeaRHLboGonJD/Janice-Griffith-kneels-and-sucks-big-black-Cock_001_teaser.jpg?c=1635501826
 birthday: '1995-07-03'
 country: United States
 ethnicity: Caucasian
@@ -10,7 +10,7 @@ weight: 39
 boobs: Natural
 bust: 32
 cup: C
-bra: 32c
+bra: 32C
 waist: 23
 hip: 32
 butt: Natural
@@ -27,3 +27,7 @@ started: 2013
 until:
 link: https://www.freeones.ca/janice-griffith/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-3f7/bT/DY/5UMnpfeaRHLboGonJD/Janice-Griffith-kneels-and-sucks-big-black-Cock_001_teaser.jpg?c=1635501826)
+***
+

@@ -11,10 +11,10 @@ weight: 52
 boobs: Fake
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 25
 hip: 33
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Brown
 piercings: No
@@ -26,3 +26,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/adria-rae/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-314/Pu/tw/WMowsJyhyCTouaAzmA/Adria-Rae-having-interracial-Sex-with-enormous-Guy_001_teaser.jpg?c=1563969957)
+***
+

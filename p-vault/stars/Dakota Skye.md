@@ -12,10 +12,10 @@ weight: 45
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 25
 hip: 36
-butt:
+butt: Unknown
 eyes: Blue
 hair: Blonde
 piercings: Yes
@@ -28,3 +28,7 @@ started: 2013
 until: 2021
 link: https://www.freeones.ca/dakota-skye/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-6c1/vs/L2/C6rfzMYG6kxZJwBWFM/Kota-Sky-sucks-and-fucks-a-big-Cock-in-POV-style_002_teaser.jpg?c=1623658339)
+***
+

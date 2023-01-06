@@ -13,10 +13,10 @@ weight: 49
 boobs: Natural
 bust: 32
 cup: B
-bra: 32b
+bra: 32B
 waist: 24
 hip: 32
-butt:
+butt: Unknown
 eyes: Hazel
 hair: Brown
 piercings: No
@@ -28,3 +28,7 @@ started: 2014
 until:
 link: https://www.freeones.ca/cassidy-klein/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-767/Af/zc/HgQvXBsmvjwnEDvJ6P/Cassidy-Klein-avatar-001_teaser.jpg)
+***
+

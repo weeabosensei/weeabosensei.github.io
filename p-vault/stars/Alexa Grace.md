@@ -1,6 +1,6 @@
 ---
 name: Alexa Grace
-photo: https://cdn.freeones.com/photo-3a2/5f/aV/6A5hruPZF5x4MYutMC/Stunning-Alexa-Grace-gets-the-new-Job-at-the-Bar_001_teaser.jpg?c=1562827146
+photo: https://cdn.freeones.com/photo-867/ey/WW/zh2RWMQZny34ofsrvR/Alexa-Grace-gets-deepthroated-by-her-Boyfriend_001_teaser.jpg?c=1562827106
 birthday: '1994-11-04'
 country: United States
 ethnicity: Caucasian
@@ -11,10 +11,10 @@ weight: 65
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 22
 hip: 38
-butt:
+butt: Unknown
 eyes: Green
 hair: Blonde
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2014
 until: 2018
 link: https://www.freeones.ca/alexa-grace/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-867/ey/WW/zh2RWMQZny34ofsrvR/Alexa-Grace-gets-deepthroated-by-her-Boyfriend_001_teaser.jpg?c=1562827106)
+***
+

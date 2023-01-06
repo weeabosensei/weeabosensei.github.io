@@ -11,10 +11,10 @@ weight: 45
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 22
 hip: 32
-butt:
+butt: Unknown
 eyes: Blue
 hair: Blonde
 piercings: Yes
@@ -26,3 +26,7 @@ started: 2015
 until:
 link: https://www.freeones.ca/alex-grey/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-a23/sm/v3/j9aDEr6qyGExDzg4sW/Alex-Grey-avatar-001_teaser.jpg?c=1577375595)
+***
+

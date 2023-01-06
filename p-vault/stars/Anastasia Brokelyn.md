@@ -10,10 +10,10 @@ weight: 54
 boobs: Natural
 bust: 35
 cup: B
-bra: 35b
+bra: 35B
 waist: 25
 hip: 36
-butt:
+butt: Unknown
 eyes: Brown
 hair: Brown
 piercings: No
@@ -25,3 +25,7 @@ started: 2019
 until:
 link: https://www.freeones.ca/anastasia-brokelyn/bio
 ---
+country: [[Spain]]
+![photo](https://cdn.freeones.com/photo-a09/Rz/c5/Sm8aq8pfCHDWR5CqaW/anastasia-brokelyn-avatar-1_teaser.jpg)
+***
+

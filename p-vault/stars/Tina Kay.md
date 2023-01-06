@@ -12,10 +12,10 @@ weight: 56
 boobs: Natural
 bust: 32
 cup: D
-bra: 32d
+bra: 32D
 waist: 26
 hip: 34
-butt:
+butt: Unknown
 eyes: Green
 hair: Brown
 piercings: Yes
@@ -27,3 +27,7 @@ started: 2005
 until:
 link: https://www.freeones.ca/tina-kay/bio
 ---
+country: [[United Kingdom]]
+![photo](https://cdn.freeones.com/photo-0d2/fD/vs/uKC3XQQpg2TyPNiAM4/Sexy-Tina-Kay-drools-on-a-long-dick_001_teaser.jpg?c=1654058815)
+***
+

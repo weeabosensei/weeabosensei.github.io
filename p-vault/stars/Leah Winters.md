@@ -10,10 +10,10 @@ weight: 59
 boobs: Natural
 bust: 32
 cup: A
-bra: 32a
+bra: 32A
 waist: 24
 hip: 34
-butt:
+butt: Unknown
 eyes: Blue
 hair: Auburn
 piercings: Yes
@@ -25,3 +25,7 @@ started: 2019
 until:
 link: https://www.freeones.ca/leah-winters/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-2d3/gS/Nc/cHuRCRrWhw9GpQgs4A/leah-winters-avatar-1_teaser.jpg)
+***
+

@@ -10,8 +10,8 @@ height: 163
 weight: 58
 boobs: Natural
 bust: 32
-cup: Ddd
-bra: 32ddd
+cup: DDD
+bra: 32DDD
 waist: 25
 hip: 36
 butt: Natural
@@ -26,3 +26,7 @@ started: 2016
 until:
 link: https://www.freeones.ca/lena-paul/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-b7b/kf/5m/kdq4F3uKGDJtuysCha/Lena-Paul_teaser.jpg)
+***
+

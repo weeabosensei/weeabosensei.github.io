@@ -11,10 +11,10 @@ weight: 45
 boobs: Natural
 bust: 34
 cup: B
-bra: 34b
+bra: 34B
 waist: 24
 hip: 28
-butt:
+butt: Unknown
 eyes: Blue
 hair: Brown
 piercings: No
@@ -26,3 +26,7 @@ started: 2018
 until:
 link: https://www.freeones.ca/kyler-quinn/bio
 ---
+country: [[United States]]
+![photo](https://cdn.freeones.com/photo-06a/iY/SH/GWsvfZqcHKCfE4oEC3/Kyler-Quinn-outdoors-brunette-001_teaser.jpg?c=1618594274)
+***
+
