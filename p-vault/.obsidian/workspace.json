@@ -11,8 +11,13 @@
             "id": "3a8861a8a106fe4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/scene_template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/scene_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/scene_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/scene_template.md"
+              }
             }
           }
         ]
@@ -140,6 +149,7 @@
   },
   "active": "3a8861a8a106fe4f",
   "lastOpenFiles": [
+    "p - download.md",
     "countries/Czech Republic.md",
     "countries/Netherlands.md",
     "countries/Poland.md",
@@ -148,7 +158,6 @@
     "countries/Germany.md",
     "countries/Ukraine.md",
     "countries/United Kingdom.md",
-    "countries/Sweden.md",
-    "countries/Japan.md"
+    "countries/Sweden.md"
   ]
 }
