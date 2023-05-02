@@ -2,6 +2,11 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from pprint import pprint
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+ff_options= Options()
+ff_options.add_argument("--headless")
+driver = webdriver.Firefox(options=ff_options)
 
 DOMAIN = 'https://jav.guru/'
 SUBBED = 'https://jav.guru/category/english-subbed/page/{}/'
@@ -14,11 +19,16 @@ def get_page_results(page_number):
     print('Page: ', page_number)
     URL = SUBBED.format(page_number)
     # print(URL)
-    page_data = requests.get(URL)
+    driver.get(URL)
+    html = driver.page_source
+    page = BeautifulSoup(html,'html.parser')
 
-    page = BeautifulSoup(page_data.content, 'html.parser')
+    # page_data = requests.get(URL)
+    # page = BeautifulSoup(page_data.content, 'html.parser')
 
+    # results = page.select("div.img > a")
     results = page.select("div.imgg > a:first-of-type")
+    # print(page)
     # print(results)
     return results
 
@@ -33,9 +43,13 @@ def get_movies_from_page(links, loaded_movies):
         #     movie_url, '=') if s.isdigit()][0]
 
         # print(load_stories[story])
-        story_page = requests.get(movie_url)
-        story_soup = BeautifulSoup(story_page.content, 'html.parser')
-    
+        driver.get(movie_url)
+        html = driver.page_source
+        story_soup = BeautifulSoup(html,'html.parser')
+
+        # story_page = requests.get(movie_url)
+        # story_soup = BeautifulSoup(story_page.content, 'html.parser')
+        # print(story_soup)
         title = story_soup.title.string
 
         movie_id = title[title.find("[")+1:title.find("]")]
