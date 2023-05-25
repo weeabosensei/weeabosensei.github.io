@@ -34511,3 +34511,28 @@ WebDriver BiDi listening on ws://127.0.0.1:56689
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileVWEV24/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56689/devtools/browser/83dcfebb-d531-44c9-8f1c-295c4be9ce56
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1684973068829	geckodriver	INFO	Listening on 127.0.0.1:59503
+1684973069342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilefIecGc"
+*** You are running in headless mode.
+1684973069571	Marionette	INFO	Marionette enabled
+1684973069578	Marionette	INFO	Listening on port 59509
+WebDriver BiDi listening on ws://127.0.0.1:59504
+Read port: 59509
+1684973069761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilefIecGc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59504/devtools/browser/b7869f7c-0900-4be6-80dd-1de14c17fa7c
+1684973091564	geckodriver	INFO	Listening on 127.0.0.1:59567
+1684973092078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile80k7mr"
+*** You are running in headless mode.
+1684973092306	Marionette	INFO	Marionette enabled
+1684973092349	Marionette	INFO	Listening on port 59574
+Read port: 59574
+WebDriver BiDi listening on ws://127.0.0.1:59568
+1684973092471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile80k7mr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59568/devtools/browser/43e5ecf2-684e-4d42-b8ad-f3ac15ecca0a
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
