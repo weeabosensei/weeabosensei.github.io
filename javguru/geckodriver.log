@@ -34573,3 +34573,27 @@ WebDriver BiDi listening on ws://127.0.0.1:64299
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile75yiVU/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64299/devtools/browser/e5bc0b01-c8b1-42e1-92a3-9e6da52e23b2
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1685143120178	geckodriver	INFO	Listening on 127.0.0.1:51635
+1685143120442	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileX2RAhB"
+*** You are running in headless mode.
+1685143120993	Marionette	INFO	Marionette enabled
+1685143121040	Marionette	INFO	Listening on port 51641
+Read port: 51641
+WebDriver BiDi listening on ws://127.0.0.1:51636
+1685143121267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileX2RAhB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51636/devtools/browser/c7936d84-d421-4292-b0d3-f63444be28cf
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1685212434628	geckodriver	INFO	Listening on 127.0.0.1:62160
+1685212435141	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileWxddMz"
+*** You are running in headless mode.
+1685212435444	Marionette	INFO	Marionette enabled
+1685212435484	Marionette	INFO	Listening on port 62166
+Read port: 62166
+WebDriver BiDi listening on ws://127.0.0.1:62161
+1685212435653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileWxddMz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62161/devtools/browser/e589af43-8ea6-4fb1-99b4-221bddf560e8
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
