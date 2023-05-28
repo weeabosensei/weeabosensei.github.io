@@ -176,3 +176,5 @@ taxo['label'] = list({s['label'] for s in movies.values()})
 
 with open(TAXOJSON, 'w') as outfile:
     json.dump(taxo, outfile)
+
+driver.quit()
