@@ -34654,3 +34654,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:52621/devtools/browser/e7395dd3-24ce-473f-a5f0-3d1f9120e54b
 JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-91e0557ce021f073d4c7f81e76dea14d&page=new, line 404: ReferenceError: $ is not defined
 1685483779869	Marionette	INFO	Stopped listening on port 52626
+1685580948544	geckodriver	INFO	Listening on 127.0.0.1:56673
+1685580949058	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileb8kH3y"
+*** You are running in headless mode.
+1685580949482	Marionette	INFO	Marionette enabled
+1685580949513	Marionette	INFO	Listening on port 56679
+Read port: 56679
+WebDriver BiDi listening on ws://127.0.0.1:56674
+1685580949652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileb8kH3y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56674/devtools/browser/0337e8e3-6343-4781-9623-458d6ede1842
+1685581045489	Marionette	INFO	Stopped listening on port 56679
