@@ -19,7 +19,7 @@ def genFeed():
     # fg.subtitle('This is a cool feed!')
     # fg.link( href='http://larskiesow.de/test.atom', rel='self' )
 
-    r = requests.get(DOMAIN + "/videos")
+    r = requests.get(DOMAIN + "/videos?search=anal")
 
     html = r.text
     page = bs(html,"html.parser")
