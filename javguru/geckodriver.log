@@ -35159,3 +35159,904 @@ JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermi
 JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-91e0557ce021f073d4c7f81e76dea14d&page=new, line 404: ReferenceError: $ is not defined
 JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
 1688322052190	Marionette	INFO	Stopped listening on port 64353
+1688406604920	geckodriver	INFO	Listening on 127.0.0.1:61623
+1688406605433	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileSVaJIN"
+*** You are running in headless mode.
+1688406605810	Marionette	INFO	Marionette enabled
+1688406605822	Marionette	INFO	Listening on port 61631
+Read port: 61631
+WebDriver BiDi listening on ws://127.0.0.1:61624
+1688406605957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileSVaJIN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61624/devtools/browser/2383e1c6-ad34-484d-b7a4-86cd096b5233
+1688406630332	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630334	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630424	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630436	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630436	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630464	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630481	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630508	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630508	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406630509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688406631551	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406631554	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406631892	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406631942	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406632266	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://feeloshu.com/4/5908725, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688406632617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_2473109275335935789_378183_2_0&si1=a378183, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_14691578785441009448_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688406632979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406633045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://feeloshu.com/4/5908725, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+1688406633145	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406633197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688406633229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406633357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406633357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406633359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688406633361	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688406633457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://matchlovefinder.com/js/bin/app.bundle.js?v=1.396.0.master.20230623132046, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688406633664	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://a.realsrv.com/js.php?t=17&idzone=4956778, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://a.realsrv.com/video-slider.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688406634266	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[RDD 36010, IPC I/O Child] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:705
+1688406739935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688406765546	Marionette	INFO	Stopped listening on port 61631
+1688408531106	geckodriver	INFO	Listening on 127.0.0.1:63600
+1688408531623	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileLEeCNG"
+*** You are running in headless mode.
+1688408531982	Marionette	INFO	Marionette enabled
+1688408532017	Marionette	INFO	Listening on port 63609
+Read port: 63609
+WebDriver BiDi listening on ws://127.0.0.1:63601
+1688408532146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileLEeCNG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63601/devtools/browser/c4560614-70cc-4c78-9e25-94bc80476849
+JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-91e0557ce021f073d4c7f81e76dea14d&page=new, line 404: ReferenceError: $ is not defined
+1688408638079	Marionette	INFO	Stopped listening on port 63609
+1688609247798	geckodriver	INFO	Listening on 127.0.0.1:51039
+1688609248317	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileO373zI"
+*** You are running in headless mode.
+1688609248654	Marionette	INFO	Marionette enabled
+1688609248672	Marionette	INFO	Listening on port 51047
+WebDriver BiDi listening on ws://127.0.0.1:51040
+Read port: 51047
+1688609248857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileO373zI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51040/devtools/browser/73660455-2097-4d91-8232-bf422901a3a4
+JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-91e0557ce021f073d4c7f81e76dea14d&page=new, line 404: ReferenceError: $ is not defined
+JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-7d0112d8b38410f9e27b6def0464a3c4&page=new, line 404: ReferenceError: $ is not defined
+1688609261005	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261098	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261103	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261110	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261134	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261192	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261192	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609261192	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688609261961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262172	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262199	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262213	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609262697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609263422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688609263635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688609263691	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609263695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609263698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_16452445781203174864_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688609263728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688609263899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609263900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609263901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609263912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609264078	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688609264087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://almareepom.com/4/5958191/?var=552855.570899&ymid=HJlJBTUM750, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.fstsrv2.com/intstl/intstl.js, line 6: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.acrpoker.eu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.0, line 1: TypeError: ea.hooks is undefined
+JavaScript error: https://static.adright.co/webpush/scripts/v1.2/webpush.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://almareepom.com/4/5958191/?var=552855.570899&ymid=HJlJBTUM750, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.qksrv1.com/tabu/display.js, line 6: SecurityError: Document.cookie setter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5882324/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_5477057878955806258_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.acrpoker.eu/wp-content/themes/acrpoker-wp/public/js/index.js?ver=1688422263, line 5: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.bing.com/?toWww=1&redig=DD504F8D09A2486FBD98ABDDDDA0D45D, line 3: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688609265998	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://lptag.liveperson.net/tag/tag.js?site=90637832, line 1: TypeError: c is undefined
+1688609266776	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609266929	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688609525971	Marionette	INFO	Stopped listening on port 51047
+1688761350568	geckodriver	INFO	Listening on 127.0.0.1:58433
+1688761351089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileSJvfBF"
+*** You are running in headless mode.
+1688761351446	Marionette	INFO	Marionette enabled
+1688761351457	Marionette	INFO	Listening on port 58441
+Read port: 58441
+WebDriver BiDi listening on ws://127.0.0.1:58434
+1688761351605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileSJvfBF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58434/devtools/browser/2158dc1a-795a-46d0-a507-ed55bf6d81b4
+JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-7d0112d8b38410f9e27b6def0464a3c4&page=new, line 404: ReferenceError: $ is not defined
+1688761366743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366746	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366747	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366786	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366799	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366800	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366801	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366803	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366815	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366832	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366832	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366833	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761366853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688761368040	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688761368143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368148	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368148	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688761368758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bedrapiona.com/4/5933001/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5858761/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688761369008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688761369229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://feeloshu.com/4/5908725, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688761369241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688761369262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_17327919948367087256_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688761369393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688761369453	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688761369465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+1688761369569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.gstatic.com/firebasejs/5.0.2/firebase-messaging.js, line 1: Error: Cannot instantiate firebase-messaging - be sure to load firebase-app.js first.
+JavaScript error: https://www.gstatic.com/firebasejs/5.0.2/firebase-messaging.js, line 1: Error: Cannot instantiate firebase-messaging - be sure to load firebase-app.js first.
+JavaScript warning: https://feeloshu.com/4/5908725, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5933001/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5858761/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bing.com/?toWww=1&redig=14621DD511F44A6F80031DC32BF08F46, line 3: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688761370003	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.acrpoker.eu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.0, line 1: TypeError: ea.hooks is undefined
+1688761370093	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://checkcdn.net/static/checker.js?r=7215a027-f857-f45c-fe06-b2c41832c633, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688761370626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.acrpoker.eu/wp-content/themes/acrpoker-wp/public/js/index.js?ver=1688422263, line 5: TypeError: document.querySelector(...) is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.profitabledisplaynetwork.com/3dfa2b7927c675e10725be47668a1da1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+2023-07-07 13:22:51.643 plugin-container[16736:8921687] NSNotificationCenter connection invalid
+JavaScript error: https://www.profitabledisplaynetwork.com/3dfa2b7927c675e10725be47668a1da1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://www.profitabledisplaynetwork.com/9fa8e913823b72e5a90a9231bd8d0db1/invoke.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688761640971	Marionette	INFO	Stopped listening on port 58441
+1688840175795	geckodriver	INFO	Listening on 127.0.0.1:59084
+1688840176315	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileob4avr"
+*** You are running in headless mode.
+1688840176627	Marionette	INFO	Marionette enabled
+1688840176652	Marionette	INFO	Listening on port 59092
+Read port: 59092
+WebDriver BiDi listening on ws://127.0.0.1:59085
+1688840176872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileob4avr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59085/devtools/browser/4050fa0c-0c8b-426b-b9f2-6f1b3f6fc7c9
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688840237076	Marionette	INFO	Stopped listening on port 59092
+1688869223132	geckodriver	INFO	Listening on 127.0.0.1:61001
+1688869223650	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileLFkcBC"
+*** You are running in headless mode.
+1688869224139	Marionette	INFO	Marionette enabled
+1688869224175	Marionette	INFO	Listening on port 61010
+Read port: 61010
+WebDriver BiDi listening on ws://127.0.0.1:61002
+1688869224301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileLFkcBC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61002/devtools/browser/6a6c88a0-839b-477b-9583-58030b0e5959
+JavaScript error: https://tour.camsoda.com/promos/iframe/300x250b.php?id=cybermike2&cmp=1adxad300x250-combo-91e0557ce021f073d4c7f81e76dea14d&page=new, line 404: ReferenceError: $ is not defined
+1688869229736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229753	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229753	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229821	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229821	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229838	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229843	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229877	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229888	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869229894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688869230634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869231024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bing.com/?toWww=1&redig=7D4FC4C1D5BA47E89A9E287DF47FFE19, line 3: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1688869231312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1688869231343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://guysandgirlsmeet.com/js/bin/app.bundle.js?v=1.396.0.master.20230623132046, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://filter.convertap.com/filter?q=best+deals&i=27kqfK5NUBI_0&ci=-7541613831385833987&t=2033154060&h=1, line 20: SecurityError: Document.cookie setter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://trulyflirtable.com/js/bin/app.bundle.js?v=1.396.0.master.20230623132046, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://feeloshu.com/4/5908725, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688869231928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869231932	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232079	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232112	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232138	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.acrpoker.eu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.0, line 1: TypeError: ea.hooks is undefined
+JavaScript warning: https://feeloshu.com/4/5908725, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688869232219	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869232246	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869232389	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+JavaScript error: https://www.acrpoker.eu/wp-content/themes/acrpoker-wp/public/js/index.js?ver=1688422263, line 5: TypeError: document.querySelector(...) is null
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_3185875550580460143_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://lptag.liveperson.net/tag/tag.js?site=90637832, line 1: TypeError: c is undefined
+1688869233763	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869234117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869284036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869284181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1688869285273	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1688869327962	Marionette	INFO	Stopped listening on port 61010
+1688940610419	geckodriver	INFO	Listening on 127.0.0.1:64686
+1688940610939	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileUkj5EB"
+*** You are running in headless mode.
+1688940611403	Marionette	INFO	Marionette enabled
+1688940611436	Marionette	INFO	Listening on port 64695
+Read port: 64695
+WebDriver BiDi listening on ws://127.0.0.1:64687
+1688940611557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileUkj5EB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64687/devtools/browser/1f6a1c50-90e6-4b08-bbf0-6304baf70f12
+1688940635738	Marionette	INFO	Stopped listening on port 64695
+1688940683372	geckodriver	INFO	Listening on 127.0.0.1:64843
+1688940683890	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileh0InJQ"
+*** You are running in headless mode.
+1688940684231	Marionette	INFO	Marionette enabled
+1688940684254	Marionette	INFO	Listening on port 64852
+Read port: 64852
+WebDriver BiDi listening on ws://127.0.0.1:64844
+1688940684418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileh0InJQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64844/devtools/browser/58df8e52-5a14-4f81-8184-dcde1fe602eb
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688940741401	Marionette	INFO	Stopped listening on port 64852
+1689115464884	geckodriver	INFO	Listening on 127.0.0.1:64607
+1689115465398	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilexDIF54"
+*** You are running in headless mode.
+1689115465861	Marionette	INFO	Marionette enabled
+1689115465872	Marionette	INFO	Listening on port 64615
+Read port: 64615
+WebDriver BiDi listening on ws://127.0.0.1:64608
+1689115466030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilexDIF54/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64608/devtools/browser/2e9ed993-8512-47a4-82f3-962a3317bb1e
+1689115483835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483899	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483899	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483901	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483910	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483921	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483922	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115483935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484023	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115484039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1689115484927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1689115485536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://filter.admeridianads.com/filter?q=adf&i=ed9JfYoOQFU_0&ci=-7116148042329935188&t=679778862, line 20: SecurityError: Document.cookie setter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1689115485740	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689115485750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://feeloshu.com/4/5908725, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689115486025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://paphoolred.com/4/6120639/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689115486432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_3965076479478612032_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://haxbyq.com/play-2_1?h=waWQiOjExMzI5NDksInNpZCI6MTE1NzI1Niwid2lkIjozNzI0NjksInNyYyI6Mn0=eyJ&click_id=a2_14309709908126548460_355801_2_0&si1=a355801, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1689115486482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689115486584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://feeloshu.com/4/5908725, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689115487037	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115487050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689115487051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.acrpoker.eu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.1, line 1: TypeError: ea.hooks is undefined
+JavaScript warning: https://paphoolred.com/4/6120639/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689115487186	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689115487195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://grunoaph.net/4/5545093/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://h0w-t0-watch.net/r/3ZuP-I_6n9xTRE8PcFw8pmEd76qd36Vpne3l_hnY_ou4f4be1zLRxeKdkb8d7JxPY8cUFe-mXtC8t7aGpyMRROGY0E1qL6O6utUe3PeFRhgT5mEpqeAiOm4tUc8C96mSo2LU-Bozwymc-7B5metLt1T3LND6_ghf2P4Tj8A4AMza0E9wcKCM6gyxgXEZ4Q3sIWKOblBa6DrSXhpyM3aPUy8GcEyvCAzqj8mZnXaFknuX4T9nwELSpoiYI7I8I6LFw--5No3PpRctXkbdsLyKX--uMKoXhkvFXH5z05w_GsDNWLJeAYP-6OT8Za37fFgqnaCqyyfakGjciUsLvv5LZ46X0rEuFqKE9w7ML4u1ZTlvRur6NkFQA4Y-emKS1gYov9GrNZ9tcMTJgpQrzyVWnnSkP1hct0nXPFQjpeuavYqgA5_KCnSba0NWYtz7mK65, line 17: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.admidainsight.com/tabu/display.js, line 6: SecurityError: Document.cookie setter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://grunoaph.net/4/5545093/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689115487633	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.admidainsight.com/webpush/scripts/v1.2/webpush.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: https://go.eabids.com/loadeactrl.go?pid=132620&spaceid=7642321&ctrlid=789701 line 1 > eval, line 1: SecurityError: Window.localStorage getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://go.eabids.com/loadeactrl.go?pid=132620&spaceid=7642321&ctrlid=789701 line 1 > eval, line 1: SecurityError: Window.localStorage getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+JavaScript error: https://www.acrpoker.eu/wp-content/themes/acrpoker-wp/public/js/index.js?ver=1688422263, line 5: TypeError: document.querySelector(...) is null
+1689115489070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pt-static5.jsmsat.com/npe/pu/vipls/script/pu.vipls-v219361.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://js.wpadmngr.com/static/adManager.m.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://lptag.liveperson.net/tag/tag.js?site=90637832, line 1: TypeError: c is undefined
+1689115522425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689115764881	Marionette	INFO	Stopped listening on port 64615
+1689286592175	geckodriver	INFO	Listening on 127.0.0.1:64037
+1689286592687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileovPOF8"
+*** You are running in headless mode.
+1689286593067	Marionette	INFO	Marionette enabled
+1689286593090	Marionette	INFO	Listening on port 64045
+Read port: 64045
+WebDriver BiDi listening on ws://127.0.0.1:64038
+1689286593232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileovPOF8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64038/devtools/browser/0284bf94-ebd6-4da4-9426-ece0c1ce8e0e
+1689286608029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608031	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608049	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608052	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608053	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608053	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608055	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608059	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608063	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608072	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608085	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608108	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608111	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608114	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608114	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608120	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608121	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ajfnee.com/p/waWQiOjEwNTAxODIsInNpZCI6MTE0MDE0Nywid2lkIjozNzgxODMsInNyYyI6Mn0=eyJ.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286608252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286609421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1689286609561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1065: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1689286609561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689286609561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689286609900	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://paphoolred.com/4/6120639/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286609970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1689286610023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689286610026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://grunoaph.net/4/5545093/, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286610187	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://feeloshu.com/4/5908725, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286610320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689286610341	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://bedrapiona.com/4/5615727/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286610544	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://paphoolred.com/4/6120639/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286610585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1689286610615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://grunoaph.net/4/5545093/, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://healthlinenews.com/redirect/?utm_start=ads&utm_finish=rev&site=17296&browser=Firefox&ip=70.36.62.60&os=OSX&country=CA&utm_source=17296&campaign_name=Healthline%20news&placement=Healthline_news_MutipleCountries_Leave_Behind_1&domain=&bid=0.15, line 10: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://healthlinenews.com/redirect/?utm_start=ads&utm_finish=rev&site=17296&browser=Firefox&ip=70.36.62.60&os=OSX&country=CA&utm_source=17296&campaign_name=Healthline%20news&placement=Healthline_news_MutipleCountries_Leave_Behind_1&domain=&bid=0.15, line 32: ReferenceError: requestCookie is not defined
+JavaScript warning: https://feeloshu.com/4/5908725, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286610814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iatout.fr."
+1689286611147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://a.realsrv.com/js.php?t=17&idzone=4958324, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://a.realsrv.com/video-slider.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://discover.zizoze.com/wp-content/plugins/td-subscription/assets/js/js_files_for_front.min.js?ver=1.3.3, line 34: SecurityError: The operation is insecure.
+JavaScript error: https://discover.zizoze.com/wp-content/plugins/td-composer/legacy/Newsmag/js/tagdiv_theme.min.js?ver=5.2.3, line 178: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: https://static.getclicky.com/101377520.js, line 1: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets.highwebmedia.com/CACHE/js/output.61a04908e0bf.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689286834131	Marionette	INFO	Stopped listening on port 64045
+1689540589514	geckodriver	INFO	Listening on 127.0.0.1:50477
+1689540590027	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileXvEY0j"
+*** You are running in headless mode.
+1689540590383	Marionette	INFO	Marionette enabled
+1689540590413	Marionette	INFO	Listening on port 50483
+Read port: 50483
+WebDriver BiDi listening on ws://127.0.0.1:50478
+1689540590523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileXvEY0j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50478/devtools/browser/52f21b62-98ae-43e3-9d44-f118a46029cc
+1689540831985	Marionette	INFO	Stopped listening on port 50483
+1689647442852	geckodriver	INFO	Listening on 127.0.0.1:58788
+1689647443372	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilerVdVvc"
+*** You are running in headless mode.
+1689647443709	Marionette	INFO	Marionette enabled
+1689647443720	Marionette	INFO	Listening on port 58794
+Read port: 58794
+WebDriver BiDi listening on ws://127.0.0.1:58789
+1689647443858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilerVdVvc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58789/devtools/browser/96607e18-727e-40d4-908c-08680658c53f
+1689647525306	Marionette	INFO	Stopped listening on port 58794
+1689821050007	geckodriver	INFO	Listening on 127.0.0.1:59594
+1689821050521	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileHGX5qB"
+*** You are running in headless mode.
+1689821050795	Marionette	INFO	Marionette enabled
+1689821050801	Marionette	INFO	Listening on port 59609
+Read port: 59609
+WebDriver BiDi listening on ws://127.0.0.1:59595
+1689821050940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileHGX5qB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59595/devtools/browser/f5034881-81dc-4d07-aba4-7734344a08c0
+1689821430767	Marionette	INFO	Stopped listening on port 59609
+1689991370539	geckodriver	INFO	Listening on 127.0.0.1:54546
+1689991371055	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofiled12qyQ"
+*** You are running in headless mode.
+1689991371349	Marionette	INFO	Marionette enabled
+1689991371360	Marionette	INFO	Listening on port 54552
+Read port: 54552
+WebDriver BiDi listening on ws://127.0.0.1:54547
+1689991371492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofiled12qyQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54547/devtools/browser/bd68f91a-82f9-4637-a84c-f7a2bcb2027c
+1689991412614	Marionette	INFO	Stopped listening on port 54552
+1689991935941	geckodriver	INFO	Listening on 127.0.0.1:54905
+1689991936457	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileG6C4yU"
+*** You are running in headless mode.
+1689991936723	Marionette	INFO	Marionette enabled
+1689991936731	Marionette	INFO	Listening on port 54911
+Read port: 54911
+WebDriver BiDi listening on ws://127.0.0.1:54906
+1689991936888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileG6C4yU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54906/devtools/browser/7aa6dbb7-ab20-494b-abb1-625d24e9c9cd
+1689992143610	Marionette	INFO	Stopped listening on port 54911
+1690057823796	geckodriver	INFO	Listening on 127.0.0.1:52371
+1690057824314	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileFXgYwY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690057824537	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690057824740	Marionette	INFO	Listening on port 52379
+WebDriver BiDi listening on ws://127.0.0.1:52372
+Read port: 52379
+1690057824952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52372/devtools/browser/02be054b-07ac-4b70-a5c6-3377e17ddfe8
+JavaScript warning: https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js, line 2: Script terminated by timeout at:
+8673/cleanPayload/e/<@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:4590
+e@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:4571
+cleanPayload@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:4749
+_send@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:2502
+sendX@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:1787
+a@https://js-agent.newrelic.com/jserrors-aggregate.49e41428-1.236.0.min.js:1:1442
+2573/runHarvest/<@https://js-agent.newrelic.com/jserrors-aggregate.49e41428-1.236.0.min.js:1:1556
+runHarvest@https://js-agent.newrelic.com/jserrors-aggregate.49e41428-1.236.0.min.js:1:1542
+unload@https://js-agent.newrelic.com/jserrors-aggregate.49e41428-1.236.0.min.js:1:596
+i/<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:13714
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14381
+
+1690057949356	Marionette	INFO	Stopped listening on port 52379
+1690147014904	geckodriver	INFO	Listening on 127.0.0.1:49454
+1690147015412	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileYCPPH0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690147015623	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690147015766	Marionette	INFO	Listening on port 49461
+WebDriver BiDi listening on ws://127.0.0.1:49455
+Read port: 49461
+1690147015871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:49455/devtools/browser/b2d80fe7-3283-495f-ae9a-b6fcbf37ae47
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0, line 6: Script terminated by timeout at:
+p@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:8179
+S/<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:34824
+
+1690147061096	Marionette	INFO	Stopped listening on port 49461
+1690168565941	geckodriver	INFO	Listening on 127.0.0.1:54459
+1690168566456	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilesNfyVx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690168566683	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690168566824	Marionette	INFO	Listening on port 54465
+WebDriver BiDi listening on ws://127.0.0.1:54460
+Read port: 54465
+1690168566932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54460/devtools/browser/f6870974-7391-41ff-b907-b0d73b934718
+1690168569854	Marionette	INFO	Stopped listening on port 54465
+1690249178006	geckodriver	INFO	Listening on 127.0.0.1:65343
+1690249178522	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilebCn0r1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690249178785	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690249178920	Marionette	INFO	Listening on port 65349
+Read port: 65349
+WebDriver BiDi listening on ws://127.0.0.1:65344
+1690249178960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65344/devtools/browser/da79e928-8644-4e0a-95bd-433b94244875
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0, line 6: Script terminated by timeout at:
+p@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:8179
+S/<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:34824
+
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1690249315945	Marionette	INFO	Stopped listening on port 65349
+1690341664526	geckodriver	INFO	Listening on 127.0.0.1:62346
+1690341665045	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileVOtAa9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690341665297	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690341665435	Marionette	INFO	Listening on port 62352
+WebDriver BiDi listening on ws://127.0.0.1:62347
+Read port: 62352
+1690341665544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62347/devtools/browser/d3cfbcb2-3266-41e5-b700-07d397d385bc
+JavaScript warning: https://js-agent.newrelic.com/async-api.30bd804e-1.236.0.min.js, line 2: Script terminated by timeout at:
+s@https://js-agent.newrelic.com/async-api.30bd804e-1.236.0.min.js:2:1483
+_send@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:3295
+sendX@https://js-agent.newrelic.com/148.1a20d5fe-1.236.0.min.js:2:1787
+n@https://js-agent.newrelic.com/metrics-aggregate.3dc53903-1.236.0.min.js:1:1442
+2573/runHarvest/<@https://js-agent.newrelic.com/metrics-aggregate.3dc53903-1.236.0.min.js:1:1556
+runHarvest@https://js-agent.newrelic.com/metrics-aggregate.3dc53903-1.236.0.min.js:1:1542
+unload@https://js-agent.newrelic.com/metrics-aggregate.3dc53903-1.236.0.min.js:1:596
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14381
+
+1690341784817	Marionette	INFO	Stopped listening on port 62352
+1690597083501	geckodriver	INFO	Listening on 127.0.0.1:50104
+1690597083998	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilex4rVKr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690597084252	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690597084381	Marionette	INFO	Listening on port 50112
+WebDriver BiDi listening on ws://127.0.0.1:50105
+Read port: 50112
+1690597084483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50105/devtools/browser/dc25fdd2-e475-4f99-97c2-82a2a5874db9
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0, line 6: Script terminated by timeout at:
+p@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:8179
+S/<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:34824
+
+[RDD 14683, IPC I/O Child] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:689
+1690597123860	Marionette	INFO	Stopped listening on port 50112
+1690665382322	geckodriver	INFO	Listening on 127.0.0.1:63363
+1690665382840	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileQlaGNV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690665383065	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690665383275	Marionette	INFO	Listening on port 63369
+WebDriver BiDi listening on ws://127.0.0.1:63364
+Read port: 63369
+1690665383415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63364/devtools/browser/78193700-2436-437b-a035-14fd7cf62b6c
+1690665634429	Marionette	INFO	Stopped listening on port 63369
+1690991234048	geckodriver	INFO	Listening on 127.0.0.1:52133
+1690991234562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileL2bf9u"
+*** You are running in headless mode.
+2023-08-02 08:47:24.743 firefox-bin[38642:1758707] Unable to install helper!
+*** You are running in headless mode.
+WebDriver BiDi listening on ws://127.0.0.1:52134
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52134/devtools/browser/581576db-af37-42ac-a188-4e0b42f92fd6
+1690991358056	geckodriver	INFO	Listening on 127.0.0.1:52220
+1690991358575	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileal5Lvb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690991358826	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1690991358959	Marionette	INFO	Listening on port 52228
+WebDriver BiDi listening on ws://127.0.0.1:52221
+Read port: 52228
+1690991359076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52221/devtools/browser/0b800dc8-956e-401b-ac4a-6d8ca697a188
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0, line 6: Script terminated by timeout at:
+v@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:7687
+v@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:7638
+o@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14514
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14342
+w@https://js-agent.newrelic.com/page_view_event-aggregate.06482edd-1.236.0.min.js:1:6042
+E@https://js-agent.newrelic.com/page_view_event-aggregate.06482edd-1.236.0.min.js:1:5904
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14381
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1690991774649	Marionette	INFO	Stopped listening on port 52228
+1691024193305	geckodriver	INFO	Listening on 127.0.0.1:59300
+1691024193812	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilekifOHE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691024194172	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1691024194466	Marionette	INFO	Listening on port 59307
+WebDriver BiDi listening on ws://127.0.0.1:59301
+Read port: 59307
+1691024194584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59301/devtools/browser/f49bacd1-b5b3-4087-8f39-df5079dda420
+1691024244085	Marionette	INFO	Stopped listening on port 59307
+JavaScript warning: https://a.realsrv.com/ad-provider.js, line 4: Script terminated by timeout at:
+t/<@https://a.realsrv.com/ad-provider.js:4:21981
+t@https://a.realsrv.com/ad-provider.js:4:21982
+@https://a.realsrv.com/ad-provider.js:4:20632
+U@https://a.realsrv.com/ad-provider.js:1:9522
+J@https://a.realsrv.com/ad-provider.js:1:8476
+T/p.onreadystatechange@https://a.realsrv.com/ad-provider.js:1:6770
+
+1691197664445	geckodriver	INFO	Listening on 127.0.0.1:58688
+1691197664961	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilegaVS3p"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691197665314	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1691197665544	Marionette	INFO	Listening on port 58695
+WebDriver BiDi listening on ws://127.0.0.1:58689
+Read port: 58695
+1691197665642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58689/devtools/browser/5481d58c-68d3-4f47-abe5-fdab608c2af7
+JavaScript error: resource:///modules/PanelMultiView.sys.mjs, line 1189: TypeError: screen is null
+JavaScript warning: https://js-agent.newrelic.com/860.95a91211-1.237.1.min.js, line 1: Script terminated by timeout at:
+3860/f/<@https://js-agent.newrelic.com/860.95a91211-1.237.1.min.js:1:1222
+v@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:7734
+v@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:7672
+o@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14538
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&disable_sound=0:6:14465
+
+1691197722337	Marionette	INFO	Stopped listening on port 58695
