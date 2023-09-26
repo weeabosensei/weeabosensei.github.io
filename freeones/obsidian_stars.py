@@ -9,6 +9,25 @@ from io import BytesIO
 import ruamel.yaml
 from tqdm import tqdm
 
+def represent_str(self, data):
+    tag = None
+    style = None
+    # Add these two lines:
+    if data.beginswith('"') and data.endswith('"'):
+        style = ''
+    try:
+        data = str(data, 'ascii')
+        tag = u'tag:yaml.org,2002:str'
+    except UnicodeDecodeError:
+        try:
+            data = str(data, 'utf-8')
+            tag = u'tag:yaml.org,2002:str'
+        except UnicodeDecodeError:
+            data = data.encode('base64')
+            tag = u'tag:yaml.org,2002:binary'
+            style = '|'
+    return self.represent_scalar(tag, data, style=style)
+
 def selectonetext(page, label):
     itm = page.select_one(label)
     return itm.text if itm else None
@@ -26,13 +45,16 @@ def getSlug(link):
 
 def toInt(number):
     if number:
+        # try:
         return int(number)
+        # except:
+        #     print("toInt error:", number)
+        #     return None
 
     return None
 
 def getExtra(star):
-    text = """country: [[{country}]]
-![photo]({photo})
+    text = """![photo]({photo})
 ***
 
 """
@@ -59,9 +81,10 @@ for bio in tqdm(bios):
     page = BeautifulSoup(page_data.content, 'html.parser')
 
     star = {}
-    img = page.select_one("body > div.flex-footer-wrapper > div > div.right-container.flex-m-column.d-m-flex.flex-1 > main > div.px-2.px-md-3 > section > header > div.dashboard-image-container > a > img")
-    star["name"] = img["title"].strip() if img else 'NO-NAME'
-    star["photo"] = img["src"].strip() if img else None
+    img = page.select_one("body > div.flex-footer-wrapper > div > div.right-container.m\:flex-col.m\:flex.flex-1 > main > div.px-2.md\:px-4 > section > header > div.dashboard-image-container > a > img")
+    star["name"] = img["title"].strip()
+    star["photo"] = img["src"].strip()
+
     # pi = page.select_one('div[data-test="section-personal-information"]')
     pi = page.select_one('form[name="subject"]')
     # pprint(pi)
@@ -73,8 +96,8 @@ for bio in tqdm(bios):
     # print(bday)
     # star["birthday"] = "{}-{}-{}".format(bday.year, bday.month, bday.day) if bday else None
 
-
-    star["country"] = getText(pi.select_one('a[href*="/babes?f%5Bcountry%5D"]'))
+    country = getText(pi.select_one('a[href*="/babes?f%5Bcountry%5D"]'))
+    star["country"] = '"[['+country+']]"' if country else ""
 
     star["ethnicity"] = getText(page.select_one('span[data-test="link_span_ethnicity"]'))
     aliases = page.select('span[data-test="link_span_aliases"]')
@@ -96,11 +119,14 @@ for bio in tqdm(bios):
     star["bust"] = toInt(getText(pi.select_one('span[data-test="link_span_bust"]')))
     star["cup"] = getText(pi.select_one('span[data-test="link_span_cup"]'))
     star["bra"] = getText(pi.select_one('span[data-test="link_span_bra"]'))
-    star["waist"] = toInt(getText(pi.select_one('span[data-test="link_span_waist"]')))
-    star["hip"] = toInt(getText(pi.select_one('span[data-test="link_span_hip"]')))
     star["butt"] = getText(pi.select_one('span[data-test="link_span_butt"]'))
     star["eyes"] = getText(pi.select_one('span[data-test="link_span_eye_color"]'))
     star["hair"] = getText(pi.select_one('span[data-test="link_span_hair_color"]'))
+
+    waist = getText(pi.select_one('span[data-test="link_span_waist"]'))
+    hip = getText(pi.select_one('span[data-test="link_span_hip"]'))
+    star["waist"] = toInt(waist.split(" ")[0]) if waist != None else ""
+    star["hip"] = toInt(hip.split(" ")[0]) if hip != None else ""
 
     star["piercings"] = getText(pi.select_one('span[data-test="link_span_piercings"]'))
     star["piercingLocations"] = getText(pi.select_one('span[data-test="link_span_piercingLocations"]'))
@@ -153,6 +179,7 @@ for bio in tqdm(bios):
 
 # pprint(act_notion)
 yaml = ruamel.yaml.YAML()
+# yaml.add_representer(str, represent_str)
 # text_format = """---
 # {}
 # ---
@@ -163,7 +190,7 @@ for star in stars:
     # pprint(star)
     # with open("{}.md".format(star["name"]), "wb") as f:
     # frontmatter.dump(star, "{}.md".format(star["name"]))
-    with open("stars/{}.md".format(star["name"]), 'w') as fh:
+    with open("/Users/thiago/git/Main/P/stars/{}.md".format(star["name"]), 'w') as fh:
         fh.write('---\n')
         yaml.dump(star, fh)
         fh.write('---\n')

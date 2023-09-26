@@ -6,8 +6,8 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import time
 ff_options= Options()
-ff_options.add_argument("--headless")
-driver = webdriver.Firefox(options=ff_options)
+ff_options.add_argument("--headless")     
+driver = webdriver.Firefox(executable_path="/opt/homebrew/bin/geckodriver",options=ff_options)
 
 DOMAIN = 'https://jav.guru/'
 SUBBED = 'https://jav.guru/page/{}/'

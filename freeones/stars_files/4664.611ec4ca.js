@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4664],{39591:function(s,e,t){s.exports=t.p+"images/gift-solid.05f43ebe.svg"},36068:function(s,e,t){s.exports=t.p+"images/star.55eb654a.svg"}}]);

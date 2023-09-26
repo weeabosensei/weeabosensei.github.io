@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2503],{2503:function(s,e,c){c(73247)},73247:function(s,e,c){s.exports=c.p+"images/flag.a86714cb.svg"}}]);
