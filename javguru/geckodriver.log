@@ -36163,3 +36163,769 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1697127186186	geckodriver	INFO	Listening on 127.0.0.1:49491
+1697127186707	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileYCQ3Rq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697127186942	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697127187145	Marionette	INFO	Listening on port 49497
+WebDriver BiDi listening on ws://127.0.0.1:49492
+Read port: 49497
+1697127187269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:49492/devtools/browser/949e01fd-01ec-473d-bcef-9f74e9a3eff5
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697127216962	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697127238081	Marionette	INFO	Stopped listening on port 49497
+1697309652383	geckodriver	INFO	Listening on 127.0.0.1:49328
+1697309652897	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileWSuOi0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697309653142	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697309653278	Marionette	INFO	Listening on port 49334
+WebDriver BiDi listening on ws://127.0.0.1:49329
+Read port: 49334
+1697309653377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:49329/devtools/browser/65dea265-c79f-40f0-b0b8-586ff793616f
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697309683160	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697309700926	Marionette	INFO	Stopped listening on port 49334
+1697584311638	geckodriver	INFO	Listening on 127.0.0.1:53903
+1697584312157	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile6QgDzA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697584312572	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697584312794	Marionette	INFO	Listening on port 53909
+Read port: 53909
+WebDriver BiDi listening on ws://127.0.0.1:53904
+1697584312934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53904/devtools/browser/b2a1625d-f7aa-4ac4-9657-459abef681a4
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697584338677	Marionette	INFO	Stopped listening on port 53909
+1697827020049	geckodriver	INFO	Listening on 127.0.0.1:60370
+1697827020560	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileINojDR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697827020882	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697827021127	Marionette	INFO	Listening on port 60377
+WebDriver BiDi listening on ws://127.0.0.1:60371
+Read port: 60377
+1697827021302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60371/devtools/browser/3de1fe90-6d26-48e7-bbf4-f4da40408654
+1697827050976	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1697827070618	Marionette	INFO	Stopped listening on port 60377
+1699027606699	geckodriver	INFO	Listening on 127.0.0.1:60549
+1699027607202	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileWb4rTJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699027607487	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699027607630	Marionette	INFO	Listening on port 60557
+WebDriver BiDi listening on ws://127.0.0.1:60550
+Read port: 60557
+1699027607743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60550/devtools/browser/60fb893b-d181-4934-82a8-f754812a3723
+1699027637511	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699027656246	Marionette	INFO	Stopped listening on port 60557
+1699123354052	geckodriver	INFO	Listening on 127.0.0.1:53251
+1699123354561	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilejVHZBp"
+*** You are running in headless mode.
+2023-11-04 11:42:39.121 firefox-bin[32492:2391956] Unable to install helper!
+*** You are running in headless mode.
+WebDriver BiDi listening on ws://127.0.0.1:53252
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53252/devtools/browser/28e8e5fb-f200-4b62-ace9-106f9d4e29c3
+1699123362078	geckodriver	INFO	Listening on 127.0.0.1:53291
+1699123362593	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileLOMKql"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699123362847	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699123362987	Marionette	INFO	Listening on port 53297
+WebDriver BiDi listening on ws://127.0.0.1:53292
+Read port: 53297
+1699123363086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53292/devtools/browser/47ae798d-5eb0-4fc2-a5b0-73c788b51d06
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1699123392927	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699123413444	Marionette	INFO	Stopped listening on port 53297
+1699766162531	geckodriver	INFO	Listening on 127.0.0.1:55839
+1699766163059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileFrk4ci"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699766163326	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699766163452	Marionette	INFO	Listening on port 55845
+WebDriver BiDi listening on ws://127.0.0.1:55840
+Read port: 55845
+1699766163549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:55840/devtools/browser/97c61ade-3e46-4b0d-8a4f-9afdea31f06a
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:15557
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1699766193364	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699766205923	Marionette	INFO	Stopped listening on port 55845
+1699920793472	geckodriver	INFO	Listening on 127.0.0.1:60772
+1699920793982	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileWgy243"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699920794191	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699920794325	Marionette	INFO	Listening on port 60799
+WebDriver BiDi listening on ws://127.0.0.1:60773
+Read port: 60799
+1699920794433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60773/devtools/browser/c1dfe044-fe9b-44c6-805c-cc44725400e8
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:15557
+
+1699920816982	Marionette	INFO	Stopped listening on port 60799
+1699981754999	geckodriver	INFO	Listening on 127.0.0.1:58670
+1699981755509	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileC7iGu9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699981755706	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699981755906	Marionette	INFO	Listening on port 58676
+WebDriver BiDi listening on ws://127.0.0.1:58671
+Read port: 58676
+1699981755991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58671/devtools/browser/2d09c857-dc5d-42e5-9799-337ecc19d2e8
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1699981777902	Marionette	INFO	Stopped listening on port 58676
+1700103502011	geckodriver	INFO	Listening on 127.0.0.1:56738
+1700103502538	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile26thNz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700103502820	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700103503017	Marionette	INFO	Listening on port 56744
+WebDriver BiDi listening on ws://127.0.0.1:56739
+Read port: 56744
+1700103503103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:56739/devtools/browser/d7f52755-df17-426e-9f51-17788410735e
+1700103524273	Marionette	INFO	Stopped listening on port 56744
+JavaScript warning: https://a.magsrv.com/ad-provider.js, line 1: Script terminated by timeout at:
+getRandomizedReference@https://a.magsrv.com/ad-provider.js:1:16652
+o@https://a.magsrv.com/ad-provider.js:4:38490
+o/<@https://a.magsrv.com/ad-provider.js:4:38987
+
+1700369640458	geckodriver	INFO	Listening on 127.0.0.1:55001
+1700369640972	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilexf5b5J"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700369641218	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700369641363	Marionette	INFO	Listening on port 55008
+Read port: 55008
+WebDriver BiDi listening on ws://127.0.0.1:55002
+1700369641415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:55002/devtools/browser/27f1bda8-ed67-4f22-8937-1d564a304cd6
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+buffer@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:9001
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:9607
+.features</<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:52397
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8825
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16342
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:13184
+p@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:9242
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:8786
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:8763
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:8763
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16243
+
+1700369671231	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700369688850	Marionette	INFO	Stopped listening on port 55008
+1700683688467	geckodriver	INFO	Listening on 127.0.0.1:58611
+1700683688472	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile6pI4GW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700683688710	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700683688872	Marionette	INFO	Listening on port 58626
+Read port: 58626
+WebDriver BiDi listening on ws://127.0.0.1:58612
+1700683688926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58612/devtools/browser/b265905e-3dbe-4f6a-b0fa-7affe3ae0d85
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16132
+
+1700683715203	Marionette	INFO	Stopped listening on port 58626
+1700801154248	geckodriver	INFO	Listening on 127.0.0.1:57740
+1700801154259	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileOO2VKx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700801154720	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700801155074	Marionette	INFO	Listening on port 57744
+Read port: 57744
+WebDriver BiDi listening on ws://127.0.0.1:57741
+1700801155163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:57741/devtools/browser/098e5748-eea2-472e-9672-9923b03c90da
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16132
+
+[Parent 66340, IPC I/O Parent] WARNING: Unable to create receive right in TransferMachPorts. (os/kern) invalid task: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:1022
+1700801184785	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700801188598	Marionette	INFO	Stopped listening on port 57744
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1700883234432	geckodriver	INFO	Listening on 127.0.0.1:64867
+1700883234947	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileXJkRY8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700883235563	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700883235869	Marionette	INFO	Listening on port 64873
+Read port: 64873
+WebDriver BiDi listening on ws://127.0.0.1:64868
+1700883235923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64868/devtools/browser/f27b36bd-014d-43bd-955e-725eb507b571
+1700883265623	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700883283483	Marionette	INFO	Stopped listening on port 64873
+JavaScript warning: https://a.magsrv.com/ad-provider.js, line 1: Script terminated by timeout at:
+getRandomizedReference@https://a.magsrv.com/ad-provider.js:1:16652
+o@https://a.magsrv.com/ad-provider.js:4:38490
+o/<@https://a.magsrv.com/ad-provider.js:4:38987
+
+1700970992597	geckodriver	INFO	Listening on 127.0.0.1:51280
+1700970993128	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileCUtRi5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700970993433	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700970993593	Marionette	INFO	Listening on port 51286
+WebDriver BiDi listening on ws://127.0.0.1:51281
+Read port: 51286
+1700970993720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51281/devtools/browser/38739402-d459-4c1e-910a-ca87fb3a2084
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16132
+
+1700971023447	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1700971048146	Marionette	INFO	Stopped listening on port 51286
+1701035163165	geckodriver	INFO	Listening on 127.0.0.1:50281
+1701035163687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileruKM90"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701035164002	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701035164231	Marionette	INFO	Listening on port 50287
+WebDriver BiDi listening on ws://127.0.0.1:50282
+Read port: 50287
+1701035164382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50282/devtools/browser/e7f3e45d-fbaf-4a91-8342-b29e676abf99
+1701035188003	Marionette	INFO	Stopped listening on port 50287
+1701059711323	geckodriver	INFO	Listening on 127.0.0.1:52004
+1701059711833	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilef28uvE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701059712131	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701059712272	Marionette	INFO	Listening on port 52011
+WebDriver BiDi listening on ws://127.0.0.1:52005
+Read port: 52011
+1701059712385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52005/devtools/browser/e91e2994-5979-425c-abb4-1651e5c9b794
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+buffer@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:9001
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:9607
+.features</<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:52397
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:8825
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16342
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8812
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8763
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8763
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16243
+
+1701059738213	Marionette	INFO	Stopped listening on port 52011
+1701144514382	geckodriver	INFO	Listening on 127.0.0.1:58864
+1701144514900	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilea6zx0y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701144515184	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701144515320	Marionette	INFO	Listening on port 58870
+Read port: 58870
+WebDriver BiDi listening on ws://127.0.0.1:58865
+1701144515349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58865/devtools/browser/7b8a9176-485c-43cc-8122-1b0e1c5f4407
+1701144539707	Marionette	INFO	Stopped listening on port 58870
+1701316349633	geckodriver	INFO	Listening on 127.0.0.1:57240
+1701316350140	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileduQofs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701316350357	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701316350574	Marionette	INFO	Listening on port 57265
+WebDriver BiDi listening on ws://127.0.0.1:57241
+Read port: 57265
+1701316350706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:57241/devtools/browser/3a8a5f80-ff75-46f1-befe-3ebe3866641e
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16132
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16132
+
+1701316375207	Marionette	INFO	Stopped listening on port 57265
+1701384727771	geckodriver	INFO	Listening on 127.0.0.1:63420
+1701384728278	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilecDUi6z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701384728520	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701384728739	Marionette	INFO	Listening on port 63461
+WebDriver BiDi listening on ws://127.0.0.1:63421
+Read port: 63461
+1701384728831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63421/devtools/browser/244d9553-0080-483a-9dec-b69645ad2319
+1701384753889	Marionette	INFO	Stopped listening on port 63461
+1701567783498	geckodriver	INFO	Listening on 127.0.0.1:49852
+1701567784007	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileh8nRJJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701567784219	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701567784373	Marionette	INFO	Listening on port 49881
+WebDriver BiDi listening on ws://127.0.0.1:49853
+Read port: 49881
+1701567784477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:49853/devtools/browser/61617640-ed2b-4c8c-817e-b0a79ff9c6e9
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+z@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:11448
+m@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:53438
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8825
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:8763
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16243
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:9602
+.features</<@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:52397
+emit@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:8825
+i@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16415
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16342
+
+1701567814228	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701567827149	Marionette	INFO	Stopped listening on port 49881
+1701640683359	geckodriver	INFO	Listening on 127.0.0.1:52701
+1701640683875	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileYRfLJb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701640684160	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701640684323	Marionette	INFO	Listening on port 52725
+Read port: 52725
+WebDriver BiDi listening on ws://127.0.0.1:52702
+1701640684431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52702/devtools/browser/d21f2b81-41fc-454d-a42f-40a2e3ac61a9
+[Child 86981, MediaDecoderStateMachine #1] WARNING: Decoder=10e938700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 86981, MediaDecoderStateMachine #1] WARNING: Decoder=10e938700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1701640710390	Marionette	INFO	Stopped listening on port 52725
+1701711359489	geckodriver	INFO	Listening on 127.0.0.1:53560
+1701711359997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileOKmasu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701711360216	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701711360345	Marionette	INFO	Listening on port 53576
+WebDriver BiDi listening on ws://127.0.0.1:53561
+Read port: 53576
+1701711360463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53561/devtools/browser/ce28608b-e6b7-446e-8edc-5a782e199bcd
+JavaScript warning: https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js, line 2: Script terminated by timeout at:
+u@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:86398
+8085/L/</<@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:86481
+8085/v/<@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:83822
+t@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:83693
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16282
+
+JavaScript warning: https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js, line 2: Script terminated by timeout at:
+B@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:86849
+K@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:87002
+8085/Y/</<@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:87951
+t@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:83693
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16282
+
+1701711385970	Marionette	INFO	Stopped listening on port 53576
+1701834369681	geckodriver	INFO	Listening on 127.0.0.1:54382
+1701834370189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileymHfln"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701834370409	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701834370620	Marionette	INFO	Listening on port 54412
+WebDriver BiDi listening on ws://127.0.0.1:54383
+Read port: 54412
+1701834370752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54383/devtools/browser/b08699c1-74e3-411f-8b63-3e19fe89d221
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16132
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16132
+
+1701834396227	Marionette	INFO	Stopped listening on port 54412
+1701917182624	geckodriver	INFO	Listening on 127.0.0.1:65461
+1701917183139	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile8wMKSo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701917183360	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1701917183503	Marionette	INFO	Listening on port 65467
+WebDriver BiDi listening on ws://127.0.0.1:65462
+Read port: 65467
+1701917183603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65462/devtools/browser/683b630c-5653-4347-b849-3c6ee1b8e57f
+1701917208541	Marionette	INFO	Stopped listening on port 65467
+1702323694115	geckodriver	INFO	Listening on 127.0.0.1:58315
+1702323694620	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilea7yz1c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702323694845	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702323695056	Marionette	INFO	Listening on port 58349
+WebDriver BiDi listening on ws://127.0.0.1:58316
+Read port: 58349
+1702323695201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58316/devtools/browser/0ab38a2b-9405-4645-83f9-6c423f10d9e0
+JavaScript warning: https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js, line 2: Script terminated by timeout at:
+qD@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:17746
+sendX@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:3639
+a@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:2301
+2573/runHarvest/<@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:2415
+runHarvest@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:2401
+unload@https://nr.static.mmcdn.com/nr-spa-1.248.0.min.js:2:1455
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16282
+
+1702323724870	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702323744715	Marionette	INFO	Stopped listening on port 58349
+1702441672989	geckodriver	INFO	Listening on 127.0.0.1:50601
+1702441673521	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile7Cw5uZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702441674012	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702441674369	Marionette	INFO	Listening on port 50607
+WebDriver BiDi listening on ws://127.0.0.1:50602
+Read port: 50607
+1702441674488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50602/devtools/browser/9323366a-d675-46e9-a2c2-277e49446080
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16161
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1702441698684	Marionette	INFO	Stopped listening on port 50607
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1702506794713	geckodriver	INFO	Listening on 127.0.0.1:51203
+1702506795245	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileS2EwrJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702506795708	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702506795944	Marionette	INFO	Listening on port 51209
+WebDriver BiDi listening on ws://127.0.0.1:51204
+Read port: 51209
+1702506796031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51204/devtools/browser/ba07a545-2f6a-4877-952e-4a37303e1271
+1702506819040	Marionette	INFO	Stopped listening on port 51209
+1702615381762	geckodriver	INFO	Listening on 127.0.0.1:63302
+1702615382272	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileqeHOPg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702615382593	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702615382791	Marionette	INFO	Listening on port 63330
+WebDriver BiDi listening on ws://127.0.0.1:63303
+Read port: 63330
+1702615383054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63303/devtools/browser/a36ee57d-19b1-4c27-bff1-5379b8be5a7e
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+Nk@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:5803
+n@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:17859
+sendX@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:3641
+a@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:2301
+2573/runHarvest/<@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:2415
+runHarvest@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:2401
+unload@https://nr.static.mmcdn.com/nr-spa-1.249.0.min.js:2:1455
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16313
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1702615407133	Marionette	INFO	Stopped listening on port 63330
+1702704565759	geckodriver	INFO	Listening on 127.0.0.1:56524
+1702704566278	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilemud2MF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702704566911	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702704567470	Marionette	INFO	Listening on port 56542
+WebDriver BiDi listening on ws://127.0.0.1:56525
+Read port: 56542
+1702704567651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:56525/devtools/browser/af094785-ed54-42e5-af06-b3cbfbba8f31
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16163
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16163
+
+1702704596994	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1702704625910	Marionette	INFO	Stopped listening on port 56542
+1702753678626	geckodriver	INFO	Listening on 127.0.0.1:61363
+1702753679125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileIjpJeo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702753679495	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702753679805	Marionette	INFO	Listening on port 61370
+WebDriver BiDi listening on ws://127.0.0.1:61364
+Read port: 61370
+1702753679939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:61364/devtools/browser/e445f668-b9fa-4372-ac5b-aecf33a38006
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1702753709522	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 348: TypeError: can't access dead object
+1702753733578	Marionette	INFO	Stopped listening on port 61370
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1702781369963	geckodriver	INFO	Listening on 127.0.0.1:64638
+1702781370480	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilelt2ofv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702781370871	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702781371171	Marionette	INFO	Listening on port 64644
+WebDriver BiDi listening on ws://127.0.0.1:64639
+Read port: 64644
+1702781371305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64639/devtools/browser/24cbd536-5f02-4370-9cc3-958d05748ec2
+1702781395778	Marionette	INFO	Stopped listening on port 64644
+1702838068260	geckodriver	INFO	Listening on 127.0.0.1:56880
+1702838068770	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileoOdLjb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702838069183	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702838069351	Marionette	INFO	Listening on port 56899
+WebDriver BiDi listening on ws://127.0.0.1:56881
+Read port: 56899
+1702838069472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:56881/devtools/browser/aaaf1a0a-6856-441a-b865-e8108ed98d27
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16163
+
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16163
+
+1702838099326	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702838101256	Marionette	INFO	Stopped listening on port 56899
+1702858619159	geckodriver	INFO	Listening on 127.0.0.1:60164
+1702858619696	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilePaRSJA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702858620206	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702858620552	Marionette	INFO	Listening on port 60170
+WebDriver BiDi listening on ws://127.0.0.1:60165
+Read port: 60170
+1702858620714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60165/devtools/browser/49d6579a-3396-431d-a2e4-adda8a7217d9
+1702858647833	Marionette	INFO	Stopped listening on port 60170
+1703034950413	geckodriver	INFO	Listening on 127.0.0.1:49977
+1703034950936	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileUaFJ0F"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703034951390	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703034951781	Marionette	INFO	Listening on port 49983
+WebDriver BiDi listening on ws://127.0.0.1:49978
+Read port: 49983
+1703034951938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:49978/devtools/browser/04a16639-b549-432f-8114-7814b5dc0716
+JavaScript warning: https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0, line 6: Script terminated by timeout at:
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=cosplay&disable_sound=0:6:16192
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P, line 146: Script terminated by timeout at:
+Uc@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:146:94
+JF@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:494:497
+KF@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:490:193
+MF.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:494:168
+aa.flush@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:514:440
+lG/<@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:518:201
+aa.Jk/<@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:469:126
+aa.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-GX0FLQH21P:468:420
+nrWrapper@https://chaturbate.com/tours/3/?tour=x1Rd&campaign=taOsB&c=1&p=0&gender=f&tag=bigboobs&disable_sound=0:6:16313
+
+1703034980867	Marionette	INFO	Stopped listening on port 49983
+1703092592531	geckodriver	INFO	Listening on 127.0.0.1:58902
+1703092593051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofile3th0QR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703092593534	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703092593767	Marionette	INFO	Listening on port 58908
+Read port: 58908
+WebDriver BiDi listening on ws://127.0.0.1:58903
+1703092593861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:58903/devtools/browser/c64f6ea8-3739-4248-9f43-e3d5dfc12731
+1703092623577	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703092624637	Marionette	INFO	Stopped listening on port 58908
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/ms-images getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1703178561128	geckodriver	INFO	Listening on 127.0.0.1:59581
+1703178561643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileHlTrPa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703178562025	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703178562411	Marionette	INFO	Listening on port 59587
+Read port: 59587
+WebDriver BiDi listening on ws://127.0.0.1:59582
+1703178562594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59582/devtools/browser/a4d3ead3-d46a-4760-bac3-ac1aedc5031e
+1703178588525	Marionette	INFO	Stopped listening on port 59587
+JavaScript warning: https://a.magsrv.com/ad-provider.js, line 1: Script terminated by timeout at:
+getRandomizedReference@https://a.magsrv.com/ad-provider.js:1:17543
+o@https://a.magsrv.com/ad-provider.js:4:39230
+o/<@https://a.magsrv.com/ad-provider.js:4:39727
+
+1703271449261	geckodriver	INFO	Listening on 127.0.0.1:56228
+1703271449790	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilefy8lDa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703271450721	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703271451203	Marionette	INFO	Listening on port 56234
+Read port: 56234
+WebDriver BiDi listening on ws://127.0.0.1:56229
+1703271451443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:56229/devtools/browser/41d693ed-72a2-4c6f-b133-7af01ffbf158
+1703271480744	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703271500363	Marionette	INFO	Stopped listening on port 56234
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1703306469367	geckodriver	INFO	Listening on 127.0.0.1:61504
+1703306469895	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofilekM6Dv8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703306470414	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703306470746	Marionette	INFO	Listening on port 61510
+WebDriver BiDi listening on ws://127.0.0.1:61505
+Read port: 61510
+1703306470889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:61505/devtools/browser/76973ace-4c25-4afb-abf6-9d67c720d478
+1703306497595	Marionette	INFO	Stopped listening on port 61510
+1703457149187	geckodriver	INFO	Listening on 127.0.0.1:54807
+1703457149704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileZuOdsj"
+1703457499451	geckodriver	INFO	Listening on 127.0.0.1:55145
+1703457499967	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v2/rd_0z9wx3w32sg89cl99jh2w0000gn/T/rust_mozprofileixPxfg"

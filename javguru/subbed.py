@@ -3,10 +3,10 @@ import json
 from bs4 import BeautifulSoup
 from pprint import pprint
 from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 ff_options= Options()
 ff_options.add_argument("--headless")
-driver = webdriver.Firefox(options=ff_options)
+driver = webdriver.Chrome(options=ff_options)
 
 DOMAIN = 'https://jav.guru/'
 SUBBED = 'https://jav.guru/category/english-subbed/page/{}/'
