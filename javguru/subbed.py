@@ -4,8 +4,12 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
 ff_options= Options()
-ff_options.add_argument("--headless")
+# ff_options.add_argument("--headless")
 driver = webdriver.Chrome(options=ff_options)
 
 DOMAIN = 'https://jav.guru/'
@@ -20,6 +24,14 @@ def get_page_results(page_number):
     URL = SUBBED.format(page_number)
     # print(URL)
     driver.get(URL)
+
+    # el = driver.find_elements(By.CSS_SELECTOR, ("div.imgg > a"))
+    # print(el)
+    # WebDriverWait(driver, 20).until(
+    #             EC.presence_of_element_located((By.CSS_SELECTOR, "div.imgg > a"))
+    #             # EC.presence_of_element_located(('input[autocomplete=email]'))
+    #         )
+    
     html = driver.page_source
     page = BeautifulSoup(html,'html.parser')
 
@@ -27,7 +39,8 @@ def get_page_results(page_number):
     # page = BeautifulSoup(page_data.content, 'html.parser')
 
     # results = page.select("div.img > a")
-    results = page.select("div.imgg > a:first-of-type")
+    # print(page)
+    results = page.select("div.imgg > a")
     # print(page)
     # print(results)
     return results
@@ -112,6 +125,7 @@ while True:
     results = get_page_results(page_number)
     
     if len(results) == 0:
+        print("ZERO RESULTS")
         break
 
     page_movies = get_movies_from_page(results, movies)
